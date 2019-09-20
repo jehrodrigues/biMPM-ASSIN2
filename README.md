@@ -22,6 +22,13 @@ python -m spacy download pt
 
 ## Usage
 
+### Dataset
+```
+TRAIN: ASSIN1 + ASSIN2
+DEV: ASSIN1 + ASSIN2
+TEST: ASSIN1
+```
+
 ### Train biMPM
 
 ```

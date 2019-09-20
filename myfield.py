@@ -110,7 +110,6 @@ class myField(Field, RawField):
     """
 
     vocab_cls = Vocab
-    print('voltou do vocab_cls')
     # Dictionary mapping PyTorch tensor types to the appropriate Python
     # numeric type.
     tensor_types = {
@@ -247,20 +246,16 @@ class myField(Field, RawField):
                             arg.fields.items() if field is self]
             else:
                 sources.append(arg)
-        print('saiu do primeiro for (sources): ', sources)
         for data in sources:
             for i, x in enumerate(data):
                 if not self.sequential:
                     x = [x]
                 counter.update(x)
-        print('saiu do segundo for')
         specials = list(OrderedDict.fromkeys(
             tok for tok in [self.unk_token, self.pad_token, self.init_token,
                             self.eos_token]
             if tok is not None))
-        print('antes do vocab_cls')
         self.vocab = self.vocab_cls(counter, specials=specials, **kwargs)
-        print('fim')
 
     def numericalize(self, arr, device=None, train=True):
         """Turn a batch of examples that use this field into a Variable.

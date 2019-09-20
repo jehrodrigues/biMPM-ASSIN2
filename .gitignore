@@ -1,0 +1,12 @@
+*.swp
+.idea/
+.vector_cache/
+*.model
+runs/
+metrics/trec_eval-9.0.5/
+venv/
+bimpm/
+embeddings/
+
+*.pyc
+__pycache__/
