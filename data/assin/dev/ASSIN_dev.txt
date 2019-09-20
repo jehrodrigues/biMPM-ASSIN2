@@ -1,0 +1,1001 @@
+pair_ID	sentence_A	sentence_B	relatedness_score
+6501	Uma pequena menina está sorrindo e usando um nariz falso e óculos	A menina pequena está sorrindo e usando um nariz falso e óculos	4.9
+6502	Um grupo de pessoas jogando futebol está correndo no campo	Um grupo de jogadores de futebol está correndo no campo	4.8
+6503	O homem está empinando uma motocicleta num chão que é praticamente árido	O homem está desmontando de uma moto para um chão que é praticamente árido	3.6
+6504	Um cervo está saltando sobre uma cerca de ferro	O cervo está saltando sobre a cerca	4.6
+6505	O homem está tocando a flauta	Um homem está tocando uma flauta	4.8
+6506	Tofu está sendo fatiado por uma mulher	Uma menina está derretendo dois pedaços de manteiga juntos	1.44
+6507	Um homem está desenhando algumas figuras	Uma pessoa está desenhando algumas figuras	4.6
+6508	Alguém está despejando ingredientes em uma panela	Alguém está adicionando ingredientes em uma panela	4.4
+6509	Um jogador de futebol de campo está marcando um gol	Um jogador de futebol está marcando um gol	4.7
+6510	Um homem negro está andando perto de uma loja em uma cidade grande	Um homem negro está andando próximo a um prédio em uma grande cidade	4.5
+6511	Uma menina de biquíni está brincando nas dunas	Uma menina de biquíni está brincando na areia	4.6
+6512	Um homem está tocando teclado	Um homem está tocando um violão elétrico	2.4
+6513	O homem não está tocando violão	O homem está tocando um violão	4.0
+6514	A onda está sendo surfada pelo surfista	Um surfista está surfando a onda	4.8
+6515	Dois cachorros grandes estão brincando em um campo gramado	Dois cachorros grandes estão brincando em um campo	4.7
+6516	Um avião está voando	Um cachorro está latindo	1.0
+6517	Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo o dia ensolarado	Não tem ninguém na costa	3.7
+6518	O menino pequeno com cabelo castanho está pulando de uma cadeira marrom para o chão	Um jovem menino está pulando de uma cadeira	4.2
+6519	Crianças estão sendo vestidas em fantasias e jogando um jogo	Crianças estão sendo vestidas com fantasias e jogando um jogo	4.9
+6520	Um filhote de gato está brincando com um brinquedo	O gato pequeno está brincando com um brinquedo	4.8
+6521	As janelas estão sendo limpas por um homem	O carro do motorista é estacionado por um homem	1.9
+6522	Um porquinho-da-índia está comendo uma cenoura	Um porquinho-da-índia está devorando uma cenoura	5.0
+6523	Pessoas não estão jogando críquete	As pessoas estão jogando críquete	4.0
+6524	Um cachorro preto escuro e um cachorro castanho claro estão brincando no quintal	A luz no quintal está pregando truques no escuro no cachorro castanho e preto	3.1
+6525	Um cachorro que tem pelagem castanha e branca está trotando pelo raso	Um cachorro que tem a pelagem branca e castanha está trotando pelo raso	5.0
+6526	Um homem está apontando para um sedã prateado	Um homem está em um estacionamento e está jogando tênis contra uma grande parede	1.3
+6527	Uma mulher está entregando bolas de vôlei para outra mulher	Uma mulher está recebendo bolas de vôlei de outra mulher	5.0
+6528	Uma mulher está passeando com o cachorro na rua	Uma mulher está segurando o cachorro	3.8
+6529	Uma árvore está sendo apanhada por um homem	Um homem está carregando uma árvore	4.65
+6530	O homem cercado por fotógrafos está vestindo um terno cinza e óculos	Um homem de terno está sendo cercado por fotógrafos	4.6
+6531	Um cachorro castanho está passando por uma trilha nevada	Um cachorro castanho está correndo por um caminho nevado	4.9
+6532	Uma mulher está rachando alguns ovos em uma tigela	Uma mulher está adicionando ingredientes em uma tigela grande	4.3
+6533	Não tem nenhum homem segurando um sapo	Um homem está segurando um sapo	2.1
+6534	O panda está comendo bambu	Um urso panda está comendo um pouco de bambu	4.9
+6535	Um homem está polvilhando queijo ralado em uma pizza	Um homem está polvilhando queijo em uma pizza	4.7
+6536	Um homem está parado	Um homem está falando	2.4
+6537	Um macaco está chutando a mão enluvada de uma pessoa	Uma pessoa de luvas está chutando a mão de um macaco	3.1
+6538	Não tem água sendo bebida por um gato	Um caminhão está descendo rapidamente um morro	1.0
+6539	Não tem nenhum homem tocando uma flauta de madeira	Um homem está tocando piano	2.62
+6540	Uma mulher está dançando numa gaiola	Não há nenhuma mulher dançando em uma gaiola	3.7
+6541	Um homem está tocando um violão	Um homem está tocando violão	4.9
+6542	Um homem está comendo alguma comida	A pessoa está comendo	4.4
+6543	Um homem está fatiando uma cebola	A cebola está sendo cortada pelo homem	5.0
+6544	Duas pessoas estão passeando dois cachorros com pelagens douradas na neve	Ninguém está na neve usando roupas que fornecem camuflagem	2.5
+6545	Jogadores de futebol de campo estão chutando uma bola de futebol de campo no gol	Algumas pessoas que jogam futebol de campo estão chutando uma bola de futebol de campo para dentro do gol	4.7
+6546	Um homem está digitando em uma máquina usada para taquigrafia	O homem está operando uma máquina de taquigrafria	4.7
+6547	Um cachorro está pegando uma bola	O cachorro está pegando uma bola	5.0
+6548	A menina loira está dançando atrás do equipamento de som	A menina loira está dançando em frente ao equipamento de som	3.9
+6549	Algum papel está sendo cortado	O pedaço de papel está sendo cortado	4.6
+6550	Uma criança jovem com cabelo preto está tirando uma foto com uma câmera	Uma criança jovem com cabelo de cor preta está tirando uma foto com uma câmera	4.9
+6551	Alguém está tocando um piano	Alguém está desmontando um piano	3.2
+6552	Um carro está sendo dirigido por um homem	Um homem está dirigindo um carro	4.9
+6553	Algumas campainhas estão soando perto de um cozinheiro fatiando pimentas	A pessoa está cortando em cubos uma pimenta que é laranja	2.3
+6554	Um homem está realizando um truque em uma bicicleta verde	Um homem está fazendo um truque de bicicleta	4.5
+6555	O avião sul-africano está voando no céu azul	O avião sul-africano não está voando em um céu azul	3.8
+6556	Uma mulher está fatiando uma cenoura	A cenoura está sendo fatiada por uma mulher	5.0
+6557	O cavalo está sendo montado por um homem	O homem está no passeio com o cavalo	3.7
+6558	Uma menina está despertando	Uma menina está acordando	4.9
+6559	A mulher está tocando a flauta	Uma mulher está habilmente tocando uma flauta	4.6
+6560	Um cachorro preto e branco está brincando com uma bola de vôlei destruída em um campo marrom	Um cachorro preto e branco está brincando com uma bola de voleibol esfarrapada em um campo marrom	4.8
+6561	Um carro e um trem estão atingindo um brinquedo	Um trem de brinquedo está atingindo um carro de brinquedo	3.2
+6562	Um peixe está sendo cortado por um homem	Um homem está fatiando um peixe	4.4
+6563	Um macaco está andando de bike	Um macaco está andando de bicicleta	4.9
+6564	Uma dupla de policiais mulheres está cantando em um karaokê	Uma dupla de mulheres policiais está cantando	4.2
+6565	Um cachorro branco grande está pulando para cima na neve	Um grande cachorro branco está pulando no ar sobre uma área nevada	4.49
+6566	Um homem está correndo estrada abaixo	Um homem está parado	2.7
+6567	Um panda está escalando	Um homem está se atrelando antes de uma escalada	1.0
+6568	Um cavalo está cavalgando sobre um homem	Um homem está andando a cavalo	3.0
+6569	Dois meninos no sofá estão jogando vídeo games	Dois meninos estão no sofá jogando jogos na televisão	4.7
+6570	Um homem está andando de moto pela cidade	Não tem nenhum homem dirigindo uma moto pela cidade	3.8
+6571	Não tem muitas pessoas no parque de patinação no gelo	Muitas pessoas estão em um parque de patinação no gelo	3.5
+6572	A mulher está olhando a vista de uma cidade	Uma mulher está olhando a vista de uma cidade	4.9
+6573	Um esquilo está correndo em círculos	Um corredor está rodeando um esquilo	3.1
+6574	Uma pessoa está chutando uma bola de futebol de campo entre os pés	A pessoa que está jogando futebol de campo está chutando a bola por entre as pernas de alguém	3.8
+6575	Um grupo de amigos está navegando a corrente em um bote	Coletes salva-vidas estão sendo usados por um grupo de pessoas que está praticando salvamento na água	2.9
+6576	Um homem está tocando violão	Um homem está tocando o instrumento	4.6
+6577	Um macaco está escovando o cachorro	Não tem nenhum macaco escovando o cachorro	3.9
+6578	Um homem está se movendo graciosamente	Um homem está dançando	3.5
+6579	A criança está deliciosamente brincando com brinquedos ao ar livre	A criança está brincando com brinquedos ao ar livre	4.7
+6580	Duas equipes estão jogando futebol de campo	Diferentes times estão jogando futebol no campo	3.0
+6581	Um menino está jogando um jogo com blocos de madeira	Um menino está jogando um jogo com blocos feitos de madeira	4.8
+6582	Um rebanho de renas está atravessando uma estrada	Um rebanho de cervos está atravessando a rua	3.8
+6583	Alguém está caindo do cavalo	Alguém está caindo de um cavalo	4.8
+6584	A mulher está guardando os ovos	A mulher está rachando ovos em uma tigela	3.6
+6585	Um cachorro castanho está pulando no ar	O cachorro castanho está pulando no ar	4.5
+6586	Um menino está pendurando uma vara para pesca e correndo em frente a um peixe	Um menino está correndo para longe de uma linha de pesca	2.7
+6587	Uma menina está pulando no carro	Uma menina está pulando em um carro	3.2
+6588	O homem está operando uma máquina de taquigrafria	O homem precisa de uma máquina de taquigrafia para operar	3.5
+6589	Um homem em uma mountain bike amarela está dando um salto	Uma pessoa em uma mountain bike amarela está dando um pulo	4.4
+6590	Duas meninas estão sentadas no chão	Várias crianças estão sentadas e levantam seus joelhos	3.2
+6591	Não tem nenhum cachorro lambendo um bebê	Um cachorro está lambendo um bebê	4.4
+6592	Um filhote de cachorro castanho está puxando um poste metálico que está preso no chão	Um filhote de cachorro castanho está mordendo um poste	4.5
+6593	A mulher está passando sombra	Não tem nenhuma mulher passando sombra	3.6
+6594	Quatro cachorros estão brincando em uma área coberta de grama	Quatro cachorros estão brincando em uma área gramada	4.6
+6595	O cachorro não está empurrando o menino na água	Um cachorro está empurrando uma criança pequena dentro de uma poça de chuva	3.75
+6596	Um gato está brincando com uma garrafa pequenina	Um animal está brincando com uma garrafa pequenina	4.4
+6597	O homem está comendo	Um homem está comendo comida	4.55
+6598	Uma mulher está passando maquiagem cuidadosamente	A banda está cantando alto	1.0
+6599	Duas pessoas estão lutando e os espectadores estão assistindo	Duas mulheres estão brigando em uma partida de kickboxing	3.7
+6600	Um homem está despejando óleo dentro de uma frigideira	Um homem está tirando o óleo de uma sautese	3.6
+6601	Um cachorro está correndo em direção a uma bola	Um cachorro está correndo em direção a um brinquedo	4.3
+6602	Um palhaço está cantando	Um palhaço está cantando e pessoas estão dançando	4.4
+6603	O homem está andando de cavalo	A menina está andando de cavalo	2.9
+6604	Algumas pessoas estão jogando críquete	Alguns homens estão jogando críquete	4.5
+6605	O menino não está andando em um triciclo	O menino está andando em um triciclo	3.9
+6606	Um ciclista está pedalando para longe de uma cerca	Um ciclista está pedalando sobre o topo de uma cerca	3.5
+6607	As batatas estão sendo fatiadas por uma mulher	Uma mulher está fatiando batatas	4.9
+6608	Uma mulher está tocando flauta	A mulher está tocando uma flauta	4.9
+6609	Um homem está dobrando lentamente uma tortilha	Uma pessoa está embrulhando uma tortilha	4.6
+6610	Uma bola está sendo pega por um cachorro em pleno ar	Um cachorro está pegando uma bola em pleno ar	4.9
+6611	O homem não está caminhando na floresta	O homem está escalando no bosque	4.4
+6612	Uma mulher está recebendo bolas de vôlei de outra mulher	Uma mulher está sacando bolas de vôlei sobre uma rede	3.3
+6613	Um pato com penas castanhas e cabeça verde está batendo as suas asas na água	Um pássaro está batendo suas asas na água	4.4
+6614	A senhora não está cortando a carne	A senhora está rachando um ovo para a batedeira	1.9
+6615	Um ciclista vestindo preto está quebrando as engrenagens	Um homem está usando um capacete preto e empurrando uma bicicleta	2.3
+6616	Um motociclista de capacete vermelho está andando em uma motocicleta azul pela estrada	Um motociclista está pilotando a motocicleta ao longo da rodovia	4.5
+6617	Uma placa de papel está sendo cortada por um homem	Um homem está cortando uma placa de papel	5.0
+6618	Um gato branco empoleirado em um pequenino armário de madeira está olhando para fora da janela	Um gato com pelagem branca, empoleirado em um pequeno armário de madeira, está olhando para fora da janela	4.8
+6619	Os corredores estão competindo em uma corrida	Os corredores estão correndo em uma competição	4.5
+6620	Uma mulher está pegando uma lata	Uma mulher está agarrando uma lata	4.0
+6621	Um homem está usando uma camisa azul e andando com os pés descalços em uma quadra de tênis	Uma pessoa está usando uma saia azul e andando descalça na quadra de tênis	4.3
+6622	A senhora está mexendo ovos em uma tigela	A mulher está mexendo ovos em uma tigela	4.9
+6623	Quatro homens jovens estão em pé parados e um carro está explodindo atrás deles	Os meninos estão de pé na frente do carro em chamas	3.3
+6624	Um homem está colocando vegetais em uma panela	Alguém está adicionando ingredientes em uma panela	4.3
+6625	Um cachorro está perto de uma bola colorida em vermelho, que está no ar	Um cachorro está perto da bola vermelha no ar	4.9
+6626	Não tem nenhum homem cortando um prato de papel	Um homem está cortando uma placa de papel	3.5
+6627	Uma mulher está cortando um tomate	Um homem está cortando uma batata	2.4
+6628	Algumas pessoas estão cantando	Um grupo de pessoas está cantando	4.6
+6629	O homem está em pé sobre uma montanha, que é rochosa, e nuvens cinzas estão ao fundo	O homem está de pé em uma montanha rochosa e nuvens cinzas estão ao fundo	4.7
+6630	Quatro crianças estão fazendo ponte no parque	Quatro garotas estão fazendo ponte e brincando ao ar livre	4.3
+6631	O homem está despejando um pouco de óleo nos tomates	Um pouco de óleo está sendo derramado sobre os tomates por um homem	4.8
+6632	As janelas estão sendo polidas por um homem	As janelas estão sendo limpas por um homem	4.4
+6633	A menina, que é jovem, está soprando uma bolha que é enorme	A menina de camisa vermelha está soprando uma bolha	4.0
+6634	Um homem está despejando um prato de queijo que está ralado dentro de uma panela de molho	Um homem está despejando um prato de queijo ralado em uma panela de molho	5.0
+6635	Uma senhora está misturando uma mistura de carne em uma tigela	Não tem nenhuma senhora misturando uma mistura de carne em uma tigela	4.0
+6636	O homem está tocando o violão	O homem está tocando o instrumento	4.4
+6637	Um pai está lançando sua filha em uma piscina	Um pai está jogando a filha na piscina	4.8
+6638	Não tem nenhum homem vestindo roupas que estão cobertas com tinta ou sentado do lado de fora em uma área movimentada escrevendo algo	Um homem está sentado perto de uma bicicleta e escrevendo uma nota	2.7
+6639	Um gato está pulando em uma caixa	Um gato está pulando em um recipiente	4.4
+6640	Não tem nenhum homem tocando uma flauta de bambu	O homem está tocando uma flauta	4.2
+6641	Um homem está rasgando as fotos de um lago	O homem está configurando a câmera e tirando fotos do pôr-do-sol na praia	2.5
+6642	Um menino está tocando um violão	O menino está tocando um violão	4.8
+6643	Tem um cara animadamente brincando com uma bola de meia	Um cara está brincando animadamente com uma bola de meia	4.8
+6644	Uma criança pequenina está bebendo água da xícara	O filhote de gato não está ansiosamente bebendo um pouco de leite da tigela	1.4
+6645	Um pouco de alimento está sendo comido por um homem	Um homem está comendo alguma comida	5.0
+6646	A mulher está cozinhando algo	A mulher não está cozinhando alguma coisa	3.6
+6647	Uma árvore pequenina está sendo comida por um bebê elefante	Um elefante bebê está comendo uma árvore pequenina	4.7
+6648	Alguma coisa está sendo celebrada por um ciclista frio	Um ciclista frio está comemorando	4.6
+6649	O homem está tocando a flauta	Um homem está guardando o violão	2.8
+6650	Um homem está pulando corda em um campo	Um homem está pulando corda lá fora	4.5
+6651	Três meninos estão pulando nas folhas	Crianças em camisas vermelhas estão brincando nas folhas	4.1
+6652	Um homem está apaixonadamente tocando um violão	O cantor está tocando o violão na frente de uma pessoa	3.9
+6653	Um chefe está preparando alguma comida	Alguma comida está sendo preparada por um chefe	4.82
+6654	A pessoa está escrevendo com um lápis	Os escritos são sobre uma pessoa desenhando	3.2
+6655	O homem está tocando violão e tem a capa do violão aberta para doações	O violão está sendo tocado pelo homem, que tem o estojo do violão aberto para doações	5.0
+6656	Um menino está olhando um calendário	O menino está checando um calendário	4.8
+6657	Um bebê está espirrando e assustando outro bebê	O bebê está engatinhando feliz	2.5
+6658	Alguns homens estão jogando críquete	Um pequeno grupo de homens está alegremente jogando críquete	4.5
+6659	Uma mulher está colocando maquiagem em sua pálpebra	Uma mulher está removendo cosméticos de sua pálpebra	3.3
+6660	O cachorro está empurrando um menino para a água	Um cachorro está puxando uma criança pequena de uma poça de chuva	3.2
+6661	A mulher com uma faca está fatiando uma pimenta	A pimenta está sendo fatiada por uma mulher com uma faca	5.0
+6662	Peixe está sendo cozido por uma mulher	Uma mulher está cozinhando peixe	4.9
+6663	Um macaco está vadeando pelo pântano	Um macaco não está andando pela água	3.2
+6664	Alguns cachorros estão brincando em um rio	Alguns cachorros estão brincando em uma correnteza	4.6
+6665	Uma mulher está cortando uma cebola	Um cavalo está parado	1.0
+6666	Uma pessoa está picando rapidamente os cogumelos com uma faca	Uma pessoa está rapidamente cortando cogumelos com uma faca	4.9
+6667	Uma mulher está dançando belamente em uma gaiola	A mulher está dançando	4.33
+6668	Um homem está realizando um truque em uma bicicleta verde	Um homem vestido de preto está andando de bicicleta	3.8
+6669	Duas pessoas de roupas para neve estão deitadas na neve e estão fazendo anjos de neve	Ninguém de roupas para neve está deitado na neve e fazendo anjos da neve	4.1
+6670	O homem não está dançando	O homem está dançando	3.8
+6671	O macaco está escovando um buldogue	O macaco não está escovando um buldogue	4.0
+6672	Uma mulher está removendo cosméticos de sua pálpebra	Uma mulher está aplicando cosméticos em sua pálpebra	3.5
+6673	Um homem e uma mulher estão dando um aperto de mãos	Duas pessoas estão dando um aperto de mãos	4.7
+6674	Não tem nenhum homem andando do lado de fora	Um homem está caminhando do lado de fora	4.6
+6675	Não tem nenhum cervo pulando cercas	O cervo está pulando sobre uma cerca	2.69
+6676	O macaco está escovando um buldogue	Um macaco está escovando o cachorro	4.4
+6677	Um grupo de amigos está navegando a corrente em um bote	Ninguém está praticando salvamento na água e usando coletes salva-vidas	2.2
+6678	O conteúdo de uma tigela está sendo misturado por um homem	Um homem está misturando o conteúdo de uma tigela	5.0
+6679	Um menino jovem coberto de grama está pulando perto de uma cerca de madeira	Um jovem menino coberto na grama está pulando próximo a uma cerca de madeira	4.9
+6680	Um jovem menino coberto na grama está pulando próximo a uma cerca de madeira	Um menino jovem coberto de grama está pulando perto de uma cerca de madeira	4.9
+6681	Uma mulher está fatiando um pepino	Uma pessoa está fatiando um pepino	4.4
+6682	O cachorro está pulando para pegar um frisbee na neve	Um cachorro está pulando para pegar um frisbee na neve	5.0
+6683	Os meninos não estão dançando na frente de algumas pessoas	Dois homens estão fazendo um esquete engraçado com um boxeador na frente de uma multidão de pessoas	1.6
+6684	Duas pessoas estão montadas em uma moto	Duas bicicletas estão sendo pedaladas por duas pessoas	3.8
+6685	A bola está sendo enterrada por um homem com uma camisa de time em um jogo de basquete	Um homem com uma camisa de time está enterrando uma bola em um jogo de basquete	4.9
+6686	Um menino jovem não está escalando uma parede feita de pedra	Uma criança pequena está escalando uma parede de escalada dentro de uma área coberta	3.9
+6687	Um chimpanzé está praticando artes marciais	Um macaco está praticando artes marciais	4.5
+6688	Três homens estão encarando os grandes morros verdes à distância	Três homens estão olhando para a distância	4.3
+6689	Um avião está decolando	Um avião está pousando	3.4
+6690	Os filhotes de gato estão comendo a comida nas bandejas	Alguns filhotes de gato estão comendo	4.7
+6691	Uma mulher está tocando um violão que é elétrico	Um homem está tocando um violão	3.6
+6692	Dois meninos pequeninos vestidos de smoking estão sentados em um piso vermelho acarpetado	Duas crianças pequenas estão vestindo smoking	4.5
+6693	Uma pessoa está escovando um gato	A pessoa está escovando um gato	5.0
+6694	Um homem está empurrando um capacete contra outro em uma bicicleta preta	Um homem está usando um capacete preto e empurrando uma bicicleta	3.4
+6695	Duas jovens meninas pequenas estão sentadas no chão	Várias crianças estão sentadas e levantam seus joelhos	2.9
+6696	Uma pessoa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike	Um ciclista de uniforme preto e vermelho está de pé em uma mountain bike	4.8
+6697	Uma mulher está cozinhando costeleta de porco empanada	Uma mulher está cozinhando uma costeleta de porco que está empanada	4.8
+6698	Um homem está andando de moto	Um homem está dirigindo uma moto	4.6
+6699	A batata está sendo descascada por uma mulher	Uma mulher está jogando uma casca de batata	3.4
+6700	Um cachorro está saltando em um trampolim	Um cachorro está pulando em um trampolim de mergulho	2.9
+6701	Um homem sem-teto casa está segurando uma placa e implorando por dinheiro	Um homem sem-teto está segurando uma placa e está implorando piedosamente por dinheiro	4.9
+6702	Um homem está tocando um violão	Um piano está sendo tocado por alguém	2.1
+6703	O gato está brincando com um dispositivo	Um gato está jogando com um dispositivo	5.0
+6704	Não tem nenhum urso panda comendo um pouco de bambu	O panda está comendo bambu	4.3
+6705	Um homem está esguichando água na boca de um cachorro branco com uma pistola de água	A água está sendo esguichada por um homem na boca de um cachorro branco com uma pistola de água	4.8
+6706	O homem está mexendo o molho para o frango	O homem está mexendo o óleo	3.6
+6707	Dois meninos, que parecem pequeninos, vestidos de smoking estão sentados em um chão de carpete vermelho	Dois meninos pequeninos vestidos de smoking estão sentados em um piso vermelho acarpetado	4.8
+6708	Um cachorro está correndo na estrada	Não tem nenhum homem correndo na estrada	2.3
+6709	Uma cobra está sendo alimentada com um rato por um homem	Um homem está alimentando um rato para a cobra	4.7
+6710	Um cigarro está sendo fumado pelo homem de chapéu de palha	O homem de chapéu de palha está fumando um cigarro	5.0
+6711	A pessoa que está praticando snowboard pula pelo ar	Um salto sobre a neve branca é muito atraente para os praticantes de snowboard	2.9
+6712	Um jogador de pingue-pongue encontra-se com duas pessoas	Alguns animais estão brincando na água	1.0
+6713	Uma grande bola verde está atingindo uma batata	Uma grande bola verde está derrubando uma batata	4.8
+6714	Um pequenino cachorro está deitado em uma cama	Um cachorro pequenino está deitado na cama	5.0
+6715	A sautese está sendo untada por uma mulher que está despejando um pouco de água	Um macaco está chutando raivosamente um alvo	1.0
+6716	Um homem está falando com a mulher que está sentada ao lado dele e está dirigindo um carro	A mulher e o homem estão viajando de carro	4.2
+6717	Um menino está praticando teclado	Um menino está tocando um teclado	4.6
+6718	Um homem está falando em um palco	Não tem nenhum homem falando em um pódio	3.7
+6719	Um vestido, que é preto, vermelho, branco e rosa está sendo usado por uma mulher	Uma mulher está tirando uma capa, que é muito grande, e revelando um vestido extravagante	3.6
+6720	Dois homens estão fazendo um esquete engraçado com um boxeador na frente de uma multidão de pessoas	Os meninos estão dançando na frente de algumas pessoas	2.2
+6721	Dois homens estão fazendo uma pausa da viagem em uma estrada nevada	Dois homens estão segurando bicicletas e parados ao lado de uma estrada coberta de neve	3.8
+6722	Um ovo está sendo rachado em uma tigela por uma mulher	A mulher está quebrando dois ovos dentro de uma tigela de vidro	4.2
+6723	Alguns peixes estão nadando	Alguns peixes estão nadando rapidamente	4.5
+6724	Um homem está fazendo levantamentos na barra	O homem está fazendo exercício	4.6
+6725	Dois crocodilos estão nadando em uma piscina verde perto de crianças brincando	Duas crianças estão brincando em uma piscina com uma boia de crocodilo colorida de verde	3.5
+6726	O homem está dançando freneticamente	O homem está dançando	4.3
+6727	O esquilo não está correndo em círculos	Um animal está correndo em círculos	3.5
+6728	O homem está dançando	Uma mulher está dançando	3.5
+6729	Uma cebola está sendo fatiada pela mulher	A mulher está fatiando uma cebola	5.0
+6730	Não tem nenhuma mulher cozinhando ovos	Uma mulher está cozinhando ovos	3.7
+6731	Um coelho está brincando com um coelho de brinquedo	Um coelho está brincando com um brinquedo	4.5
+6732	Uma criança de uniforme verde e branco para esportes está correndo sobre a grama	Uma criança de uniforme de esportes verde e branco está correndo sobre a grama	4.9
+6733	Uma palestra sobre um adulto e um menino está sendo dada em um anfiteatro	O homem e o menino estão de pé embaixo da escada, que é ao ar livre	1.5
+6734	Um jogador de basquete está no chão da quadra e outro está pegando a bola	Dois times de basquete estão lutando pela bola na quadra	4.3
+6735	Várias pessoas estão na frente de um edifício que é coberto por cores	Várias pessoas estão em frente a um prédio colorido	4.7
+6736	Uma mulher idosa está sem camisa e está desajeitadamente derrubando dois jornais	Uma mulher velha está usando uma camisa com padrões de rosas e está desajeitadamente carregando dois jornais	3.4
+6737	Um capacete preto está sendo usado por um homem que está empurrando uma bicicleta	Um homem está usando um capacete preto e empurrando uma bicicleta	4.8
+6738	A mulher está despejando óleo na frigideira	Óleo está sendo despejado dentro de uma frigideira pela mulher	5.0
+6739	Um homem de jaqueta vermelha está de pé perto de um caiaque amarelo sobre algumas rochas no oceano	Um homem de jaqueta vermelha está de pé perto de um caiaque amarelo em algumas pedras próximo ao oceano	4.8
+6740	Não tem nenhum homem jogando a bola em um jogo de basquete	Um homem com uma camisa de time está enterrando uma bola em um jogo de basquete	4.0
+6741	Um homem jovem está pegando uma motocicleta de motocross para cima de um morro de terra	Um homem jovem está empurrando uma bicicleta de motocross para cima de um morro de terra	4.6
+6742	Um pato grande está voando acima de um riacho rochoso	Um pato, que é grande, está voando sobre um riacho rochoso	4.8
+6743	Um homem está tirando um prato de queijo ralado de uma panela de molho	A senhora está adicionando queijo ao molho	2.4
+6744	Uma mulher está dançando e cantando na chuva	Não tem nenhuma mulher dançando e cantando na chuva	3.8
+6745	Um homem está tocando flauta	Um homem está fazendo música com uma flauta	4.8
+6746	Um menino está jogando fora um calendário	Um menino está olhando um calendário	2.4
+6747	Um homem está abrindo um pacote que não contém fones de ouvido	Uma mulher está andando a cavalo	1.1
+6748	Um homem está batendo em um menino com uma espada	Um menino está batendo em um homem com uma espada	3.6
+6749	Alguns animais estão brincando selvagemente na água	Alguns animais estão brincando na água	4.4
+6750	O homem está cortando a fita na caixa	Um homem está passando fita em uma caixa cortada	3.4
+6751	Um menino jovem vestindo um traje de banho vermelho está pulando em uma piscina de crianças azul	Um menino, que parece jovem e está usando uma roupa de banho vermelha, está pulando dentro de uma piscina azul de crianças	4.8
+6752	A senhora está adicionando queijo ao molho	Um homem está tirando um prato de queijo ralado de uma panela de molho	2.4
+6753	Um homem está realizando um truque em uma bicicleta verde	Um homem negro de verde está andando em uma bicicleta	2.7
+6754	Um homem está desmontando a bateria	Um homem está tocando a bateria	3.5
+6755	A mulher está passando sombra	Uma mulher está passando sombra	5.0
+6756	A mulher não está mexendo a carne em uma tigela	Uma senhora está misturando uma mistura de carne em uma tigela	3.4
+6757	Uma mulher está passando maquiagem cuidadosamente	Uma mulher está colocando um pouco de maquiagem cuidadosamente	4.9
+6758	Um homem em uma camisa tingida de roxo está olhando para o homem de camisa preta que está fazendo uma cara engraçada	Um homem de camisa tingida de roxo está olhando para um homem de camisa preta que está fazendo uma cara que parece engraçada	5.0
+6759	Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres	Calça boca de sino rosa e cachecol rosa não estão sendo usados por mulheres com calças prateadas ou pessoas andando de bicicleta	2.7
+6760	Duas crianças estão empurrando um crocodilo inflável em uma piscina	Duas crianças estão brincando em uma piscina com uma boia de crocodilo colorida de verde	4.4
+6761	A senhora está rachando um ovo para a batedeira	A senhora está quebrando um ovo para a batedeira	4.9
+6762	Um motociclista está usando um equipamento que é preto	Um homem está empurrando um capacete contra outro em uma bicicleta preta	2.4
+6763	Uma chita está correndo rapidamente atrás de sua presa	Uma chita está perseguindo sem ar sua presa através de um campo	4.6
+6764	Uma menina jovem está usando língua de sinais	Língua de sinais está sendo usada por uma jovem menina	4.9
+6765	Um homem está rindo	Um homem está chorando	2.5
+6766	O homem está dirigindo um carro	O carro do motorista é estacionado por um homem	3.4
+6767	Um homem está aparando um gramado	Um homem está misturando	1.2
+6768	Uma mulher está mergulhando um camarão na massa	Uma mulher está mergulhando um pitu na massa	4.4
+6769	A pessoa não está desenhando	Um homem está desenhando uma imagem	3.5
+6770	O jogador de tênis com uma faixa de cabeça verde está batendo na bola	Um jogador de tênis com uma faixa verde está acertando a bola	5.0
+6771	Um homem está em silêncio	Um homem está falando	3.3
+6772	Um ciclista está fazendo sem medo um truque no ar	O ciclista está realizando um truque no ar	4.9
+6773	Um menino está olhando um calendário	Um menino está checando um calendário	4.6
+6774	Um cachorro branco está usando uma tiara de rena de Natal e está brincando com um cachorro castanho na grama	Um cachorro branco está usando uma tiara de rena de Natal e está brincando com um cachorro de pelagem castanha na grama	4.5
+6775	Um homem está dançando em um telhado	Não tem nenhum homem de pé sobre um telhado tocando um violino	3.1
+6776	Uma pessoa está tocando um violão e cantando	O cantor está contratando uma pessoa para demitir o violonista	2.1
+6777	Um bebê está espirrando e assustando outro bebê	Um bebê está espirrando e amedrontando outro bebê	4.9
+6778	Não há nenhum homem montando um cavalo	O homem está montando um cavalo perto de um riacho	4.0
+6779	Um menino jovem está escalando uma parede de pedra	O menino jovem está escalando a parede de pedra	4.8
+6780	Um homem está andando de motocicleta	Um homem está andando de moto	5.0
+6781	Lama está sendo jogada no menino brincando	O menino está brincando na lama	3.7
+6782	Um homem está tocando o violão	O violão está sendo tocado por um homem	4.9
+6783	Um homem está se cortando com um pedaço de papel	Um homem está cortando um papel	2.8
+6784	Uma senhora de chapéu de pele e um casaco de pele está em pé ao ar livre em frente a um prédio	Uma mulher com chapéu de pele e casaco de pele está de pé do lado de fora do edifício	4.8
+6785	Três mulheres estão em pé paradas	Três mulheres estão dançando	2.8
+6786	Um homem está falando a respeito do palco	Um homem está falando em um palco	3.56
+6787	Alguém está tocando piano	O piano está sendo tocado por alguém	4.8
+6788	A mulher não está tocando a flauta	A mulher está tocando a flauta	4.2
+6789	Um gato está bebendo leite avidamente	Um pouco de leite está sendo bebido avidamente por um gato	4.8
+6790	Um menino está de pé na água	Um menino está de pé fora da água	3.6
+6791	Um violão está sendo tocado por um homem ao lado de um baterista	Um homem está tocando violão perto de um baterista	4.9
+6792	Um homem está se exercitando	Uma menina está se exercitando	3.4
+6793	Duas crianças estão empurrando um crocodilo inflável em uma piscina	Duas crianças estão puxando um crocodilo inflável para fora de uma piscina	3.7
+6794	Um homem está colocando um pouco de queijo em uma pizza	Um homem está polvilhando queijo ralado em uma pizza	4.8
+6795	Uma menina tem uma camiseta e está mantendo sua boca aberta	Uma menina está vestindo uma camiseta e tem a sua boca aberta	4.6
+6796	Um homem está fugindo de uma bola de futebol	Um homem está chutando uma bola de futebol de campo	3.0
+6797	Dois meninos assustados estão conversando no telefone	Uma mulher está falando em um telefone	2.7
+6798	Um homem está guardando um violão	Um homem está apaixonadamente tocando um violão	3.3
+6799	Um homem do Oriente Médio está parado encostado em um poste perto de outras pessoas	Um homem está encostado contra um poste e está cercado por pessoas	4.2
+6800	Um homem está sentado confortavelmente à mesa	Uma pessoa está sentada confortavelmente em uma mesa	4.5
+6801	Um homem está misturando	Um homem está sacudindo uma bebida	3.8
+6802	Um homem está andando lentamente através de uma ponte de corda	Um menino está andando através de uma ponte	3.5
+6803	Uma flauta está sendo tocada por uma menina	Uma menina está tocando uma flauta	4.9
+6804	Uma mulher está fatiando um tomate	Uma mulher está descascando uma batata	3.0
+6805	Dois adultos estão sentados em cadeiras e estão observando o oceano	Alguns adultos estão sentados nas cadeiras e estão observando o oceano	4.7
+6806	O homem está intensamente tocando o violão	Uma jovem mulher está tocando o violão	3.4
+6807	O homem está montando um cavalo	Um cavalo está sendo montado por um homem	5.0
+6808	Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo um dia cheio de sol	Um monte de pessoas está na costa	3.8
+6809	Um cachorro que tem a pelagem branca e castanha está trotando pelo raso	Um cachorro branco e castanho está andando pela água com dificuldade	4.0
+6810	O cachorro preto está carregando uma bola azul e branca na boca	Um cachorro preto está carregando um brinquedo azul e branco na boca	4.9
+6811	Um homem está tocando bateria	Um homem está tocando a bateria	4.8
+6812	Dois homens estão de pé perto da água e estão segurando varas de pesca	Não tem nenhum homem de pé próximo da água e segurando varas de pesca	3.4
+6813	O homem está tocando um violão	O homem não está tocando um violão	3.2
+6814	O macaco está sendo treinado em artes marciais	Um macaco está chutando a mão enluvada de uma pessoa	3.2
+6815	O médico não está ajudando o paciente	O médico está ajudando o paciente	3.4
+6816	Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo o dia ensolarado	Um monte de caras está na costa	3.2
+6817	Um grupo de pessoas está equipado com equipamentos de segurança	Uma pessoa com equipamento de ciclismo está parada de pé de frente para algumas montanhas	2.7
+6818	A noiva e o noivo estão partindo após o casamento	Um casal que acabou de se casar está descendo o corredor	4.1
+6819	A mulher não está cortando uma cenoura	A mulher está cortando uma cenoura	3.7
+6820	Dois homens estão invadindo um carro durante uma viagem em uma estrada nevada	Dois homens com bicicletas estão do lado de uma estrada nevada	2.2
+6821	Um cachorro está correndo em uma estrada nevada	Um cachorro está correndo em um caminho nevado	4.5
+6822	O cantor está contratando uma pessoa para demitir o violonista	Uma pessoa está tocando um violão e cantando	2.1
+6823	Um homem está sentado pacificamente em um barco em frente ao pôr-do-sol perto de uma bandeira	Um homem está em um barco na frente do pôr do sol	4.5
+6824	Um homem está participando de uma corrida de bmx	Um homem está participando de uma corrida de bmxs	4.7
+6825	Um homem perto de uma parede feita de tijolos está usando uma máscara em torno de sua boca e uma rede de cabelo	Um homem perto de um muro de tijolos está usando uma máscara ao redor da boca e uma rede de cabelo	4.8
+6826	Um casal está correndo em direção ao oceano	Não tem nenhum casal correndo em direção ao oceano	3.5
+6827	Não há nenhum homem de jaqueta preta fazendo truques em uma moto	Uma pessoa de blusa preta está fazendo truques em uma moto	3.6
+6828	A mulher está mexendo ovos em uma tigela	A senhora está mexendo ovos em uma tigela	4.9
+6829	Um avião está pousando	Este avião está decolando	3.8
+6830	A mulher está picando alho	Os brócolis estão sendo picados por uma mulher	3.0
+6831	Um cachorro, que é caramelo, está atravessando a neve	Um cachorro caramelo está correndo pela neve	4.9
+6832	A senhora não está medindo o tornozelo de outra mulher	A senhora está medindo o tornozelo de outra mulher	3.0
+6833	A senhora está fatiando um tomate	A mulher está fatiando um tomate	4.7
+6834	Uma mulher está batendo dois ovos na tigela e está usando um batedor feito de metal	Uma mulher está batendo dois ovos em uma tigela e está usando um batedor feito de metal	5.0
+6835	Um homem está fatiando um pão	Ninguém está fatiando um pedaço de pão	3.6
+6836	A mulher com uma faca está fatiando uma pimenta	A mulher com a faca não está fatiando uma pimenta	4.2
+6837	Um homem está fatiando um pão	Uma pessoa está fatiando um pedaço de pão	4.6
+6838	Um menino está vestindo tudo preto e está escorregando em um escorregador inflável amarelo	Um menino está vestindo tudo preto e está escorregando em um escorregador inflável	4.3
+6839	Um homem está fazendo exercícios	Um homem fazendo exercícios está sendo derrubado	4.1
+6840	O grande cachorro castanho está correndo ao ar livre na sujeira	O cachorro grande castanho está correndo para fora na sujeira	4.9
+6841	Um cachorro, que é branco, está em pé nas folhas caídas	Um cachorro branco está parado em cima de folhas caídas	4.7
+6842	Um homem está se atrelando antes de uma escalada	Um panda está escalando	1.0
+6843	Uma senhora está misturando uma mistura de carne em uma tigela	Uma senhora está misturando uma mistura feita de carne em uma tigela	5.0
+6844	Um menino está olhando um calendário	Um menino está encarando um calendário	4.2
+6845	Uma mulher está dançando belamente em uma gaiola	Uma mulher está dançando numa gaiola	4.8
+6846	Um homem está derrubando uma árvore com um machado	Um homem está aguando uma árvore	3.1
+6847	Um gato grande está abrindo uma gaveta com suas patas e pulando para dentro	Um gato está abrindo uma gaveta e escalando para dentro	4.4
+6848	Um homem e uma mulher estão falando	Um homem está falando com uma mulher	4.8
+6849	Uma bolha explodiu, tingindo a camisa da menina de vermelho	A menina de camisa vermelha está soprando uma bolha	2.96
+6850	Uma mulher está pegando uma lata	Uma mulher está cortando um tomate	1.8
+6851	Um cachorro grande está correndo na grama com uma bola de tênis na boca	Um cachorro, que é grande e cinza, está derrubando uma bola de sua boca e parando na grama	3.5
+6852	Uma mulher está sendo beijada por um homem	Duas pessoas estão discutindo perto de uma multidão	1.1
+6853	As pessoas estão andando na estrada ao lado de uma cachoeira, que é bonita	As pessoas estão andando na estrada ao lado de uma bela cachoeira	4.9
+6854	Meninos pequenos estão brincando em uma fonte de água na frente de muitas pessoas	As crianças pequenas estão brincando em uma fonte de água na frente de várias pessoas	4.4
+6855	Uma pessoa de luvas está chutando a mão de um macaco	Um macaco está chutando a mão enluvada de uma pessoa	3.1
+6856	Um cachorro está saltando alto no ar e outro está observando	Um cachorro está pegando uma vara no ar e outro está assistindo	4.2
+6857	Uma pessoa está de pé em um vasto campo de gelo glacial	Alguma pessoa está de pé em um vasto campo de gelo glacial	4.8
+6858	A mulher está manuseando um sapo	Não tem nenhum homem segurando um sapo	3.2
+6859	Um menino está batendo em um homem com uma espada de plástico	Um homem está sendo atingido por uma criança com uma arma	4.2
+6860	Um homem em uma camisa tingida de roxo está olhando para o homem de camisa preta que está fazendo uma cara engraçada	Um homem em uma pose está sendo divertidamente assistido por outro homem	3.5
+6861	Um homem de terno está de pé em frente a um microfone e cantando	O homem de terno está de pé de frente para um microfone e cantando	5.0
+6862	Dois cachorros brancos estão correndo e pulando pela praia	Um par de cachorros brancos estão correndo e pulando ao longo de uma praia	4.9
+6863	Um pato marrom com uma cabeça verde está batendo suas asas na água	Um pássaro está batendo suas asas na água	4.3
+6864	Uma menina está olhando surpresa de uma janela da frente de uma casa na Ásia	Uma menina da Ásia, na frente de uma janela de tijolos, parece surpresa	4.6
+6865	Uma criança loira está descendo um escorregador e erguendo os braços	Uma criança loira está descendo um escorregador e jogando os braços para cima	4.9
+6866	Os homens estão colocando as bagagens no porta-malas de um carro	Os homens estão colocando bagagens dentro do porta-malas de um carro	5.0
+6867	Uma pessoa está fatiando uma batata	Uma batata está sendo fatiada por uma pessoa	4.9
+6868	A mulher não está cortando uma cenoura	Uma mulher está fatiando uma cebola	2.5
+6869	Um menino com roupa de banho está sentado em cima de uma fonte circular	Um menino de roupa de banho está sentado em uma fonte circular	4.5
+6870	Não tem nenhuma mulher batendo ovos	Uma mulher está misturando ovos	3.1
+6871	Um homem está sentado perto de uma bicicleta e escrevendo uma nota	Não tem nenhum homem vestindo roupas que estão cobertas com tinta ou sentado do lado de fora em uma área movimentada escrevendo algo	2.7
+6872	O homem está fatiando a batata	A pessoa está fatiando a batata	4.3
+6873	Uma menina com uma sacola preta está em um trem lotado	Uma mulher asiática no meio de muitas pessoas está carregando uma sacola preta	3.5
+6874	Uma pessoa está fritando alguma comida	Uma pessoa está cozinhando alguma comida	4.3
+6875	Uma mulher está tocando um violão elétrico	Um homem está tocando um violão	3.9
+6876	O homem está operando uma máquina de taquigrafria	Um homem está arrumando uma máquina de taquigrafia	3.4
+6877	Não tem nenhum casal correndo em direção ao oceano	Um casal está correndo em direção ao oceano	3.5
+6878	Uma mulher está descascando uma batata	O homem está fatiando algumas batatas	3.1
+6879	Uma menina está cortando manteiga em duas partes	Tofu está sendo fatiado por uma mulher	2.4
+6880	Uma vaqueira está montando um cavalo e rodeando um barril	Uma vaqueira está montando em um barril perto de um cavalo na esquina	2.8
+6881	Alguma pessoa está de pé em um vasto campo de gelo glacial	Uma pessoa está de pé em um vasto campo de gelo glacial	4.8
+6882	O menino está andando em um triciclo	Não tem nenhuma mulher pilotando uma moto aquática	1.7
+6883	Um homem e uma mulher de meia idade estão andando de bicicleta por uma estrada perto da água	Um homem e uma mulher de meia idade estão montando bicicletas por uma estrada ao lado da água	4.9
+6884	Um homem está carregando uma árvore	Um homem está pegando uma árvore	4.3
+6885	Uma menina não está tocando o violão	O homem está intensamente tocando o violão	3.4
+6886	Uma criança de pele bronzeada está olhando para a câmera	Uma criança de pele bronzeada está olhando a câmera	4.8
+6887	Uma menina jovem de camisa verde está andando na calçada e segurando uma placa rosa	Uma menina de camisa azul, que parece jovem, está andando na calçada e segurando uma placa rosa	4.9
+6888	Um homem está sentado pacificamente em um barco em frente ao pôr-do-sol perto de uma bandeira	Um homem está sentado em um barco de frente para o pôr do sol, perto de uma bandeira	4.3
+6889	Uma mulher está mergulhando um camarão na massa	Não tem nenhuma mulher mergulhando um camarão na massa	4.1
+6890	Duas pessoas estão lutando e os espectadores estão assistindo	Duas pessoas estão lutando kickboxing e espectadores estão assistindo	4.4
+6891	Um homem está dando um telefonema	Um homem está conversando ao telefone	4.3
+6892	O gato empoleirado na mesa está olhando curiosamente pela janela	O gato empoleirado na mesa está olhando pela janela	4.8
+6893	Uma mulher concentrada está tocando flauta	Uma mulher está tocando flauta	4.3
+6894	Um homem está preparando algum prato	Um homem está preparando um prato	5.0
+6895	Um cachorro está pulando para pegar um frisbee na neve	O cachorro está pulando para pegar um frisbee na neve	5.0
+6896	Um pato marrom com uma cabeça verde está batendo suas asas na água	Um pato com penas castanhas e cabeça verde está batendo as suas asas na água	4.7
+6897	Uma mulher está quebrando dois ovos em uma tigela	Alguns ingredientes estão sendo separados em uma tigela por uma pessoa	3.45
+6898	A mulher está dançando	A senhora está dançando	5.0
+6899	Uma mulher está cozinhando ovos	A mulher está cozinhando algo	4.2
+6900	A menina está batucando suas unhas	Uma menina está batucando as unhas	4.9
+6901	Um cachorro preto e um cachorro branco estão lutando no chão	Um cachorro preto e um cachorro branco estão se digladiando no chão	4.7
+6902	Um limão está sendo espremido por uma mulher	Uma mulher está espremendo um limão	4.9
+6903	Um homem está liderando a corrida	Alguns homens estão correndo em competições no exterior	3.1
+6904	O homem está tocando o piano de forma divertida com seu nariz	O homem está tocando o piano com seu nariz	4.6
+6905	Uma pessoa está sentada confortavelmente em uma mesa	Um homem está sentado confortavelmente à mesa	4.5
+6906	Um homem está cortando uma batata em pedaços	um homem está cortando uma batata	4.8
+6907	Uma corda está sendo escalada por um homem	Um cabo está sendo escalado por um homem	4.2
+6908	Não tem nenhum homem jogando a bola em um jogo de basquete	O jogador está enterrando a bola de basquete e uma multidão está ao fundo	3.5
+6909	Uma pessoa está polvilhando tempero em vários pães fatiados e com manteiga	Um homem está polvilhando tempero em vários pães fatiados e com manteiga	4.4
+6910	Um leão está cansadamente andando ansiosamente em uma jaula	Não tem nenhum leão cansadamente andando ansiosamente em uma jaula	3.6
+6911	Uma mulher está cortando uma cebola	A mulher está jogando cebolas fora	3.0
+6912	Não tem nenhuma pessoa usando chapéu e sentada na grama	Uma pessoa está usando um chapéu e está sentada na grama	3.3
+6913	Um homem em uma grande cidade está segurando uma placa e pedindo por dinheiro	Um homem em uma cidade grande está segurando uma placa e pedindo dinheiro	5.0
+6914	Uma mulher está batucando seus dedos em uma mesa	Uma mulher está batucando seus dedos	4.7
+6915	Três pessoas estão paradas ao lado de um galho de árvore	Duas crianças estão penduradas em um galho grande	2.5
+6916	A pessoa está fatiando a batata	O homem está fatiando a batata	4.3
+6917	Uma pessoa está parando de tocar um trompete	Uma pessoa está tocando trompete	3.6
+6918	Uma mulher está dançando numa gaiola	A senhora está dançando	4.1
+6919	Uma mulher está fatiando uma cebola	Uma cebola está sendo fatiada por uma mulher	4.9
+6920	Três pessoas estão dirigindo quadriciclos em um campo	Três pessoas estão dirigindo quadriciclos	4.2
+6921	Uma pessoa está andando de motocicleta	Uma pessoa está picando uma cebola roxa	1.2
+6922	Um cachorro, que tem pelagem castanha e branca, está segurando uma bola de beisebol na boca	Um cachorro castanho e branco está segurando uma bola de beisebol na boca	4.9
+6923	O ciclista está realizando um truque no ar	Um ciclista está fazendo sem medo um truque no ar	4.9
+6924	Um menino está dizendo uma palavra	Uma criança está conversando	3.9
+6925	Dois homens estão lutando com os punhos em um ringue	Os homens estão lutando com seus punhos em um ringue	4.8
+6926	A mulher está quebrando dois ovos em uma tigela feita de vidro	Uma mulher está quebrando um ovo em uma tigela	4.5
+6927	Dois homens com bicicletas estão do lado de uma estrada nevada	Dois homens estão tomando uma pausa de uma viagem em uma estrada coberta de neve	3.2
+6928	Um menino na adolescência está falando com uma menina com uma webcam	Um homem está conversando com uma menina com uma câmera de internet	3.9
+6929	O homem está dançando freneticamente	Três mulheres estão dançando	2.4
+6930	Uma pessoa está queimando algumas câmeras com um maçarico	Algumas câmeras estão sendo queimadas por uma pessoa com um maçarico	4.8
+6931	Um homem está fazendo exercícios	Um homem está descansando	2.8
+6932	Um bebê tigre está brincando com uma bola	Um filhote de tigre está brincando com uma bola	4.9
+6933	Um cachorro está comendo uma boneca	Uma criança está brincando com um brinquedo de cachorro	1.9
+6934	Dois cachorros estão brincando em uma praia	Dois cachorros estão brincando na praia	4.8
+6935	Não há nenhum homem montando um cavalo	Um homem está dirigindo um carro	1.7
+6936	Os corredores estão competindo em uma corrida	Os corredores não estão participando da corrida	3.9
+6937	Um menino está brincando de escorregar na grama	Uma criança está brincando de escorregar na grama	4.6
+6938	A criança pequena está jogando futebol e caindo inofensivamente na grama	A bola de futebol está entre os pés de um menino que está deitado na grama	3.4
+6939	Um grupo não está pegando a correnteza em um bote	Esse grupo de pessoas está praticando salvamento na água e usando coletes salva-vidas	2.8
+6940	Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres	Uma pedestre está construindo bicicletas rosas para ciclistas que usam boás	2.8
+6941	Um homem e uma mulher estão andando juntos pela cidade	Um homem e uma mulher estão andando juntos pelo bosque	3.5
+6942	Um cachorro branco está de pé nas folhas no chão	Um cachorro branco está parado em cima de folhas caídas	4.7
+6943	Um filhote de cachorro fofo está repetidamente rolando de um lado para outro com suas costas no chão	Um filhote de cachorro está rolando de um lado para outro de costas repetidamente	4.4
+6944	Um homem está parado em uma calçada	O homem está de pé na calçada	5.0
+6945	Algumas mulheres estão falando	Algumas mulheres não estão falando	4.1
+6946	O homem de chapéu de vaqueiro está andando pelo mercado e está colocando uma mão no bolso	O homem de chapéu para vaqueiro está andando por um mercado e está pondo uma mão no seu bolso	4.8
+6947	O homem está abaixando barras	O homem está levantando pesos	3.8
+6948	Uma mulher está vestindo uma touca egípcia	A mulher não está usando óculos ou touca	3.6
+6949	Um homem está chorando	Um homem está gritando	3.1
+6950	Uma mulher está cozinhando um ovo em uma sautese	Uma mulher está despejando uma mistura em uma tigela e misturando-a	2.2
+6951	Uma mulher está agarrando uma lata	Uma mulher está pegando uma lata	4.0
+6952	O bebê está engatinhando feliz	Um bebê está engatinhando feliz	4.9
+6953	Não tem nenhuma mulher pilotando uma moto aquática	O menino está andando em um triciclo	1.7
+6954	Um esquilo está rodando em círculos	Um corredor está rodeando um esquilo	3.1
+6955	Uma jovem senhora de biquíni está deitada na praia	Uma senhora que parece jovem está deitada na praia	4.3
+6956	A menina jovem está soprando uma bolha que é grande	A jovem mulher de camisa tingida de vermelho está soprando uma bolha que é gigante	3.8
+6957	O chefe está cuidadosamente secando o óleo da frigideira	O chefe está cuidadosamente despejando óleo dentro de uma frigideira	3.5
+6958	Uma moto aquática está sendo pilotada por uma mulher	Uma mulher está andando em uma moto aquática	5.0
+6959	Não tem nenhuma mulher preparando um ovo em uma sautese	Uma mulher está despejando uma mistura em uma tigela e misturando-a	2.9
+6960	Um menino debaixo de um guarda-chuva está sendo segurado por seu pai que está vestindo um casaco tingido de azul	Um menino embaixo de um guarda-chuva está sendo segurado por seu pai que está usando um casaco azul	4.6
+6961	Um menino está aparando o gramado	Um cara está aparando o gramado	4.6
+6962	Um homem está sendo curiosamente observado por uma mulher	Uma mulher está olhando curiosamente para um homem	4.4
+6963	Algumas pessoas estão sentadas no chão do lado de fora de um monumento	O grupo de pessoas está sentado no chão do lado de fora de um monumento	4.9
+6964	Um homem e uma mulher estão sentados	Um homem está andando na chuva	2.0
+6965	Um homem está tocando uma flauta de madeira	O piano está sendo tocado por um homem	2.6
+6966	Um homem está tocando teclado em um parque	Uma pessoa está tocando o teclado	4.3
+6967	A menina de camisa vermelha está soprando uma bolha	A menina de camisa tingida de vermelho não está soprando uma bolha	2.4
+6968	Algumas câmeras estão sendo queimadas por uma pessoa com um maçarico	Uma pessoa está queimando algumas câmeras com um maçarico	4.8
+6969	Uma mulher está costurando com uma máquina	Uma mulher está usando uma máquina de costura	4.9
+6970	Um menino pequeno está tocando violão	Um menino está tocando um violão	4.4
+6971	A mulher está usando um capacete azul e está andando de bicicleta em um estacionamento	Uma mulher está usando um capacete azul e está andando de bicicleta em um estacionamento	5.0
+6972	Um menino na adolescência está falando com uma menina com uma câmera de internet	Um homem está falando com uma menina usando uma câmera de internet	3.9
+6973	Uma mulher está tocando um violão	Não tem nenhuma mulher tocando um violão	3.7
+6974	Um menino e uma menina em trajes de banho estão usando boias em seus braços	Um menino e uma menina de trajes de banho estão usando boias de braço	4.9
+6975	Alguém está pregando uma lente de câmera com fortes barulhos	O homem está martelando um prego com uma câmera	3.55
+6976	Um menino está tocando um teclado	Um menino está sentado confortavelmente em um quarto e tocando piano perto de uma lâmpada	3.9
+6977	Um homem está passeando na chuva	Um homem está andando na chuva	5.0
+6978	Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres	Uma mulher que está vestindo um cachecol rosa está andando em uma bicicleta pela ponte construída para pedestres	4.3
+6979	Uma mulher está cortando carne	Uma mulher está cortando alguma carne	4.9
+6980	Um menino está em pé em frente ao edifício azul no espaço reservado para pessoas com deficiência	Um menino de camiseta vermelha está na frente de uma parede, que é longa e azul, e está desconfiadamente levantando uma sobrancelha para a câmera	2.3
+6981	Uma menina está pulando de uma pedra e outra está em pé sobre a rocha	Uma menina está pulando de uma rocha e outra está de pé sobre a rocha	4.8
+6982	Não tem nenhuma mulher fatiando um tomate	Uma mulher está fatiando um tomate	3.06
+6983	Um homem está apontando para um sedã prateado	Um homem solitário está em um estacionamento e está jogando tênis contra um grande muro	1.4
+6984	O homem está fatiando pão	O pão está sendo fatiado por um homem	4.9
+6985	Um homem não está tocando um violão	Um homem está tocando teclado	3.73
+6986	Um cachorro preto escuro e um cachorro castanho claro estão brincando no quintal	Um cachorro, que é castanho, e um que é preto estão correndo na grama	3.9
+6987	Um homem está sentado perto de uma bicicleta e escrevendo uma nota	Um homem sentado está ocupado escrevendo algo em uma área coberta por tinta	3.2
+6988	Dois meninos estão fazendo artes marciais em um tapete azul	Duas crianças estão fazendo arte marcial em um tapete azul	4.5
+6989	A massa está sendo esticada por um homem	Um homem está espalhando massa	4.8
+6990	Um homem está cortando uma batata	Uma mulher está cortando um tomate	2.4
+6991	A comida nas bandejas está sendo comida pelos filhotes de gato	Os filhotes de gato estão comendo a comida nas bandejas	4.8
+6992	O homem está tocando a flauta	A pessoa está tocando a flauta	4.7
+6993	Alguém está sendo fervido com quiabo em uma panela	Alguém está fervendo quiabo em uma panela	2.7
+6994	Dois salsichas estão brincando com uma bola vermelha	Dois cachorros castanhos estão disputando uma bola vermelha e estão brincando na grama	3.7
+6995	Diferentes times estão jogando futebol no campo	Diferentes jogadores de futebol estão em formação em um campo	3.9
+6996	Um gato está tocando teclados	Um gato está tocando um piano comicamente	3.9
+6997	A mulher está rachando ovos em uma tigela	A senhora não está quebrando ovos na tigela	3.6
+6998	Um homem de patins está patinando em uma pista construída para skate	Um homem de patins está patinando em uma pista de skate	4.7
+6999	Uma tartaruga de mar está procurando peixes	O peixe está seguindo a tartaruga	3.2
+7000	Uma mulher está esvaziando a água de uma caneca	Uma mulher está coletando água da torneira em uma caneca	3.8
+11501	De acordo com o relatório, foram notificados 6.052 casos suspeitos de dengue, sendo 641 descartados.	Do total de casos notificados, 10.768 foram confirmados como dengue e 15.202 descartados.	3.5
+11502	Seu irmão George é o terceiro na linha sucessória da coroa britânica.	Charlotte é a quarta na linha de sucessão da coroa britânica.	3.25
+11503	Em Campinas, no interior do estado, já são mais de 30 mil casos confirmados de dengue.	São 333 municípios com notificações da doença e 246 têm confirmados casos de dengue.	3.0
+11504	A estreia do Brasil na Copa América está marcada para o dia 14 de junho, contra o Peru.	O time estreia na Copa América contra o Peru.	4.25
+11505	Funcionamento normal, lojas e praça de alimentação de 10h às 22h.	Já na segunda-feira do feriado, o shopping abrirá das 9h às 19h.	2.25
+11506	Pelas contas dos organizadores, 2 milhões de manifestantes saíram às ruas.	Por todo o país, os manifestantes saíram às ruas em clima de paz.	2.5
+11507	A acusação foi apresentada pelo Ministério Público Federal (MPF) no início do mês.	Todos passam a ser réus e começam a responder pelos crimes acusados pelo Ministério Público Federal (MPF).	2.75
+11508	A guarda costeira italiana afirmou que 400 pessoas foram resgatadas e 25 morreram.	Cerca de 400 pessoas conseguiram ser resgatadas com vida do mar de acordo com a guarda costeira italiana.	4.0
+11509	A seleção brasileira está no grupo 3 da Copa América, junto com Colômbia, Peru e Venezuela.	O Brasil está no Grupo 3, juntamente com Colômbia, Peru e Venezuela.	4.25
+11510	No ano passado, a homenageada foi Taylor Swift.	Nos anos anteriores, o prêmio foi entregue para Taylor Swift e Pink.	3.0
+11511	Fernanda Lima mostrou em sua conta no Instagram neste sábado, 12, seu novo corte de cabelo.	Neste sábado (12) a apresentadora usou seu perfil no Instagram para exibir o corte de cabelo.	4.5
+11512	Segundo a App Store do Brasil, o Uber foi o aplicativo gratuito mais baixado na sexta.	Segundo ele, a polarização de táxis contra o Uber não faz sentido.	3.0
+11513	Para o fim de 2016, a mediana das projeções foi mantida em 11,50% ao ano.	Para 2016, a mediana das projeções se manteve em crescimento de 1%.	3.25
+11514	A previsão para a taxa de câmbio em 2015 ficou em R$ 3,20.	Para 2016, a previsão de superávit comercial permaneceu em US$ 9,95 bilhões.	1.25
+11515	Pode manter Kátia Abreu, pode manter Eduardo Braga.	Do Senado ficam Eduardo Braga, nas Minas e Energia, e Kátia Abreu, na Agricultura.	3.25
+11516	No acumulado deste ano, os serviços prestados às famílias têm queda de 2,0% na receita bruta.	Com o resultado de julho, a receita bruta do setor acumula alta de 2,2% no ano.	2.5
+11517	De acordo com a polícia, 56 agentes e 12 manifestantes ficaram feridos.	Pelo menos 46 policiais e sete manifestantes ficaram feridos.	4.0
+11518	Em seu perfil do Instagram, a loira mostrou o novo look com um selfie no espelho.	Diego Américo, responsável pelo novo look, também mostrou seu trabalho com um foto na rede social.	2.75
+11519	As exportações somaram US$ 57,931 bilhões nos primeiros quatro meses deste ano e as importações totalizaram US$ 62,997 bilhões.	As importações totalizaram US$ 19,218 bilhões.	2.5
+11520	Os locais de pouso da missão Ares 3 estão na planície marciana chamada Acidalia Planitia.	Fotografias mostram locais dos pousos das missões Ares 3 e Ares 4.	2.75
+11521	Recentemente, ela tinha assumido um novo desafio de dar a previsão do tempo no MSTV 2ª Edição.	Ela apresentava a previsão do tempo no MSTV 2ª Edição.	4.0
+11522	As importações somaram US$ 62,997 bilhões, retração de 15,9% também pela média diária.	As exportações brasileiras somaram US$ 15,156 bilhões em abril.	2.25
+11523	Dirigido por Robert Stevenson, o longa de 1964 foi baseado no primeiro dos oito livros infantis de P.L. Travers.	Mary Poppins foi primeiramente inspirado no primeiro dos oito livros infantis escritos por P. L. Travers.	3.5
+11524	A Mega-Sena fará um sorteio extra nesta semana do Dia das Mães.	A Mega-Sena terá três sorteios nesta semana por causa do Dia das Mães.	4.0
+11525	Volante de origem, Nilton foi improvisado como zagueiro ao lado de Alan.	Desta forma, Nilton será improvisado na defesa ao lado de Alan Costa.	4.0
+11526	A Caixa Econômica Federal faz os sorteios da Mega-Sena duas vezes por semana, às quartas-feiras e aos sábados.	A Mega-Sena terá três concursos nesta semana, segundo a Caixa Econômica Federal.	3.25
+11527	O Corinthians melhorou, chegou ao gol e depois da expulsão de David Braz tomou conta do clássico.	Está explicada a expulsão de David Braz na derrota por 2 a 0 do Santos para o Corinthians.	2.5
+11528	No lado israelense, são quatro as vítimas fatais e cerca de 20 feridos.	Quatro israelenses ficaram feridos em um ataque com faca.	3.0
+11529	A presidente deve anunciar a reforma administrativa e ministerial na quinta-feira.	A reforma ministerial está prevista para ser anunciada nesta quinta-feira.	4.0
+11530	A vacina em 2015 protege contra três tipos de vírus: Influenza B, H1N1 e H3N2.	A vacina usada na campanha contra a Influenza é segura e bem tolerada.	2.75
+11531	Os déficits somados dos 20 clubes atingiram R$ 598 milhões.	Nos últimos quatro anos os déficits somados atingiram R$ 1,3 bilhão.	2.0
+11532	Comparado com o Galaxy S6 da Samsung, que tem 2.600 mAh de bateria, a diferença é mesmo gritante.	Comparado com o Galaxy S6 da Samsung, a diferença na bateria é muito grande.	4.0
+11533	Até agora, apenas um processo da Lava Jato envolvendo a estatal foi julgado.	Mas o juiz Sérgio Moro tem julgado rapidamente as ações da Operação Lava Jato.	3.0
+11534	De acordo com a Caixa Econômica Federal, 65 apostas acertaram a Quina e ganharam R$ 45.507,40.	Ao todo, 189 pessoas acertaram a quina e ganharam R$ 13 mil.	2.75
+11535	O 1º lote do Lolla Pass (que vale para os dois dias) já está esgotado.	O preço do 3º lote será do Lolla Pass será de R$ 800.	2.75
+11536	Ainda segundo o instituto, o PIB do primeiro trimestre do ano totalizou R$ 1,4 trilhão.	Nos três primeiros meses deste ano, o PIB ficou em R$ 1,4 trilhão.	4.25
+11537	Em 2013, antes de ser expedido o mandado de prisão, Pizzolato fugiu para a Itália para escapar da prisão.	Pizzolato fugiu em 2013 do Brasil para escapar da prisão.	3.5
+11538	Antes, já havia cutucado quando o Santos teve outro gol anulado, novamente em posição de impedimento.	Aos 41, Gabriel teve outro gol anulado, também em posição irregular.	2.75
+11539	Em maio deste ano, eles reataram, mas terminaram novamente no dia 24 de setembro.	Em maio deste ano, reataram, voltando a terminar em setembro.	4.0
+11540	A Microsoft reforça a sua nuvem Azure, criando a sua própria distribuição Linux.	A Microsoft anunciou hoje sua própria distribuição do Linux.	3.5
+11541	O giro financeiro do primeiro pregão da semana foi de R$ 4,9 bilhões.	O giro financeiro totalizou apenas R$ 4,966 bilhões.	3.75
+11542	"Além de apresentadora, ela se tornou cantora, elogiada até pela ""Rainha dos Baixinhos""."	Os três estiveram no palco da Rainha dos Baixinhos e falaram sobre suas expectativas.	1.75
+11543	O anúncio do referendo feito ontem foi uma surpresa desagradável.	A situação agora se agrava pelo anúncio de um referendo pelo governo grego.	3.75
+11544	Os primeiros problemas com o Skype foram detetados cerca das 09h20 em Lisboa, (5h20 no horário de Brasília).	Os primeiros problemas com o Skype começaram em torno das 5h20 (horário de Brasília).	4.25
+11545	Sem descanso, o rapaz inicia nesta terça a disputa do Aquece Rio, evento-teste para as Olimpíadas.	A disputa inicia oficialmente nesta terça, com rodadas eliminatórias.	2.0
+11546	No entanto, será difícil convencer o presidente turco Recep Tayyip Erdogan a assinar o acordo.	Em Istambul, Merkel se reuniu também com Recep Tayyip Erdogan.	2.25
+11547	Falta cobrada por Galhardo, que lançou na área mas a defesa afastou mais uma vez.	Galhardo cobrou, mas a defensiva afastou mais uma vez.	4.0
+11548	Internautas criticaram os músicos por declarações à revista 'Atrevida'.	Junto com os outros integrantes, o músico participou de uma conversa com a revista Atrevida sobre comportamentos femininos.	2.5
+11549	O Brasil chegou ao mafioso a partir de informações da Polícia Federal na Itália.	Em Brasília, o chefe da Interpol na Itália falou sobre o mafioso.	2.75
+11550	A história do Flamengo não começou com o Bandeira e nem a do Fluminense com esse atual presidente.	O Futebol do Rio não se restringe à dupla Flamengo e Fluminense.	2.0
+11551	Ele será detido na carceragem da Superintendência da PF, em Curitiba.	Ele será levado para a superintendência da Polícia Federal em Curitiba.	4.0
+11552	Apalavrado com a Kappa, o presidente Modesto Roma Júnior ainda busca uma produtora e uma distribuidora para os uniformes.	Presidente Modesto Roma Júnior está acertado com empresa italiana.	3.0
+11553	Um dos mais revoltados após o clássico realizado na Arena Corinthians era David Braz.	Assim como David Braz, Werley também foi expulso no clássico diante do Corinthians.	2.0
+11554	A nova versão traz uma novidade interessante: compatibilidade com a assinatura Office 365, baseada na nuvem.	A opção de assinatura mais em conta é do Office 365 Personal.	2.25
+11555	O primeiro jogo das quartas de final está marcado para quarta-feira, às 19h30min, no estádio Beira-Rio.	O jogo de ida está marcado para as 19h30 desta quarta-feira, no Beira-Rio.	3.75
+11556	Já fiquei nu várias vezes na TV e no teatro.	Uma coisa é fazer um trabalho, um nu no teatro, na TV, no cinema.	3.0
+11557	Eu falo aqui no programa, e estou à disposição.	Gilmar Rinaldi desafiou o senador Romário.	1.0
+11558	No segundo tempo, a vítima de Aspas foi o brasileiro Daniel Alves.	Daniel Alves sente a falta de ritmo sofre com Nolito em seu setor.	1.5
+11559	Deborah Secco está completamente focada na chegada da filha, Maria Flor.	Secco está grávida de sua primeira filha, que vai se chamar Maria Flor.	3.75
+11560	Foram identificados depósitos de 3,1 milhões nas contas da empresa dos irmãos Vargas.	Os irmãos de Vargas e o dono da agência também negaram as acusações.	2.75
+11561	Como já é tradição no Salão Duas Rodas, outra atração será o test-ride das motos de alta cilindrada.	O Salão Duas Rodas terá um espaço de test-ride para motos de alta cilindrada.	4.0
+11562	Johny Hendricks passou mal na noite de quinta-feira e o duelo com Tyron Woodley foi cancelado.	A baixa ficou pelo cancelamento do duelo entre os americanos Tyron Woodley e Johny Hendricks.	3.25
+11563	Aos policiais, o acusado disse ter soltado a serpente na mesma localidade.	O homem alegou que soltou a serpente na mesma localidade do ocorrido.	4.0
+11564	"Após a Operação Lava Jato, se está ""confundindo lobby com corrupção""."	O que foi feito na Operação Lava Jato não tem nada a ver com lobby.	2.75
+11565	Seis jovens foram mortos em uma chacina ocorrida na madrugada de 12 de abril em uma pousada.	Dos seis jovens assassinados, quatro tinham menos de 20 anos.	3.0
+11566	Já Medina, sétimo colocado, enfrentará o havaiano John John Florence (18º).	Antes de bater Adriano de Souza, Medina eliminou o havaiano John John Florence.	3.0
+11567	Nesta terça, a presidente Dilma Rousseff sancionou, com vetos, a Lei da Reforma Eleitoral aprovada pelo Congresso Nacional.	A presidente Dilma Rousseff sancionou a proposta de reforma eleitoral nesta terça-feira.	4.0
+11568	Mas agora é mais importante para nós, porque conduz a bola, tem capacidade para virar o jogo.	Ele sabe como poucos virar a bola durante o jogo.	3.25
+11569	Ela e o ex-marido continuam amigos, mas o Latino nunca foi e não é o empresário dela.	Isso porque a modelo ainda mantém o ex-marido, Latino, como seu empresário.	3.0
+11570	Voto é a fonte da minha legitimidade, e ninguém vai tirar essa legitimidade que o voto me deu.	A presidente ressaltou a legitimidade do voto popular.	2.75
+11571	Iniesta é um jogador fundamental para a equipe.	Eles também tiveram chances, mas o resultado dá força à equipe.	1.25
+11572	Até agora, apenas três ministros votaram - Edson Fachin também defendeu liberar apenas o consumo da maconha.	O ministro Edson Fachin defendeu descriminalizar o porte de maconha para consumo próprio.	3.75
+11573	Sem Messi, Neymar e Suárez pareciam perdidos no ataque.	O Barcelona perdeu sua principal referência no ataque.	2.5
+11574	A partida valerá tanto para a Primeira Liga, quanto pelo Campeonato Gaúcho.	A CBF autorizou a realização da Primeira Liga, campeonato pertencente à Liga Sul-Minas-Rio.	2.5
+11575	Em 2013, o piloto foi contratado pela McLaren.	Ele tem 87 GP's disputados, passando também pela McLaren.	2.25
+11576	Esta é a segunda vez que o sérvio conquista o Aberto dos EUA.	A única vez que o sérvio venceu o Grand Slam americano foi em 2011.	2.75
+11577	Atena rouba o dinheiro de Romero, que acusa Ascânio e o expulsa da Fundação.	Atena oferece dinheiro a Ascânio em troca de informações sobre Romero.	3.0
+11578	A estrutura da Cidade do Rock tem números impressionantes.	Seu arsenal de hits 80s agitará a Cidade do Rock.	2.5
+11579	O maior obstáculo tem sido o acesso aos diversos e-mails de Valcke, mantidos em um servidor dentro da entidade.	Getty Images Fifa vai permitir acesso a e-mails de Jérôme Valcke.	2.75
+11580	Dois meses depois, a Rússia concedeu asilo político a Snowden.	Atualmente Snowden vive em Moscou, que lhe ofereceu asilo.	3.5
+11581	Pizzolato fugiu do Brasil após ser condenado a 12 anos e 7 meses de prisão no julgamento do mensalão.	Brasileiro fugiu para a Itália após ser condenado no julgamento do mensalão.	4.0
+11582	O golpe foi identificado no final de semana pela empresa de segurança digital Kaspersky.	O golpe foi descoberto pela empresa russa de segurança digital Kaspersky Lab.	4.0
+11583	Zulu conheceu a ex-mulher, Cassiana Mallmann, enquanto trabalhavam como modelos em Paris.	O casamento de Paulo Zulu e Cassiana Mallmann foi em 1992.	2.5
+11584	Por um minuto, o Palmeiras se viu fora da semifinal da Copa do Brasil nesta quarta-feira.	O Palmeiras penou para se classificar à semifinal da Copa do Brasil na noite de quarta-feira.	3.5
+11585	O volante Maicon participou normalmente do treinamento do Grêmio nesta sexta-feira.	O volante Maicon está fora da partida do Grêmio contra o Atlético-PR.	3.0
+11586	De janeiro a março deste ano, o PIB teve baixa de 0,7% (dado revisado).	O governo revisou oficialmente sua previsão de retração do PIB deste ano para uma queda de 2,44%.	2.5
+11587	Professores e estudantes acreditam que a medida visa cortar gastos.	A medida visa reorganizar a distribuição dos alunos nas escolas.	2.0
+11588	Além da integração com o Skype, o Windows 10 também ganhará melhorias no seu navegador, o Microsoft Edge.	A falha não está presente no Microsoft Edge, navegador padrão do Windows 10.	1.75
+11589	Para apontar um primeiro-ministro, um partido precisa conquistar 326 cadeiras do Parlamento.	A boca de urna diz que o Partido Conservador conseguiu 316 cadeiras no parlamento.	2.25
+11590	A primeira grande atualização do Windows 10 já está sendo desenvolvida pela Microsoft com previsão de lançamento em 2016.	A Microsoft já iniciou o desenvolvimento da primeira grande atualização do Windows 10.	3.75
+11591	Eles são pais de dois filhos: Seraphina, 6 anos, e Samuel, de 3 anos.	Os dois atores estavam casados há 10 anos.	1.5
+11592	Os trabalhadores protestam contra a regulamentação da terceirização, a retirada de direitos trabalhistas e o ajuste fiscal.	Os trabalhadores protestam contra o projeto de lei que regulamenta a terceirização no país.	4.0
+11593	É outra seleção que vai brigar por uma vaga e pode surpreender.	A Itália foi a primeira seleção a garantir a vaga.	2.0
+11594	As liminares foram obtidas junto ao Tribunal de Justiça, o que levou a PGE a apelar ao STF.	Alguns sindicatos obtiveram liminares junto ao Tribunal de Justiça do Rio Grande do Sul.	3.25
+11595	No longa, Marty McFly e Doc Brown viajaram para o futuro no dia 21 de outubro de 2015.	No filme, McFly e Doc Brown viajam para 2015.	4.0
+11596	A deputada estadual Leci Brandão (PCdoB) subiu em um carro de som para defender a Petrobras.	A deputada estadual Leci Brandão (PCdoB) estava entre os políticos presentes à manifestação.	3.25
+11597	Em maio, uma pessoa foi morta por tiros de morteiro que caíram nas proximidades.	Outras três pessoas ficaram feridas em abril, quando morteiros caíram dentro do complexo.	2.75
+11598	Foram presos, até o momento, 14 pessoas, entre eles sete dirigentes da Fifa.	Os sete dirigentes presos podem ser extraditados para os Estados Unidos.	2.75
+11599	A posição do ministro Levy e do ministro Barbosa no governo é extremamente estável.	Ninguém pode tirar isso do Levy nem do ministro Barbosa.	2.75
+11600	No acordo, a Sabesp doou ainda três imóveis no valor aproximado de 40 milhões de reais.	O acordo também estabelece repasse de 130 milhões de reais à cidade.	2.5
+11601	Assessora de Taylor Swift e Calvin desmentiram os boatos.	Parece que o namoro entre Calvin Harris e Taylor Swift continua firme e forte.	2.75
+11602	O juiz titular da VEP, Eduardo Oberg, também está indo para o local.	O juiz Eduardo Oberg, também da VEP, acompanhou a magistrada no retorno ao Batalhão.	2.75
+11603	Lady Gaga, de 29 anos, vai receber o prêmio na cerimônia da Billboard em Nova York, em dezembro.	Lady Gaga foi eleita a mulher do ano pela revista Billboard.	3.5
+11604	Ricardinho cobrou falta na entrada da área e empatou para o Figueirense.	Aos 15 minutos, o Figueirense empatou com o gol de Ricardinho.	3.5
+11605	A consulta das vagas foi aberta nesta terça-feira, no site do MEC.	O Ministério da Educação abriu nesta terça-feira a consulta de vagas.	4.25
+11606	Por causa das irregularidades, ela chegou a suspender, temporariamente, as visitas íntimas e de familiares.	Ela suspendeu temporariamente as visitas íntimas, após verificar irregularidades.	4.25
+11607	Joseph Blatter foi reeleito presidente da Federação Internacional de Futebol (Fifa) na tarde desta sexta-feira.	Joseph Blatter foi reeleito nesta sexta-feira como presidente da FIFA.	4.25
+11608	As outras luas que orbitam em torno dos dois corpos se chamam Styx, Kerberos e Hydra.	Nix é uma das quatro luas que orbitam em torno de Plutão e sua maior lua, Charon.	2.5
+11609	No primeiro turno, Blatter teve 133 votos contra 73 de Hussein.	Foi a segunda vez que Blatter não venceu o pleito em primeiro turno.	2.5
+11610	Dois meses após lançar a GoPro HERO4 Session, a GoPro anuncia a chegada da Hero+ no mercado.	GoPro lança a câmera Hero+ com conectividade wi-fi e capacidade para filmar em Full HD.	3.0
+11611	O ataque deixou 26 mortos e 227 feridos na mesquita Al Imam A Sadeq de Kuwait City.	A polícia do Kuwait já prendeu mais duas pessoas pelo alegado envolvimento no ataque.	2.5
+11612	Lars Rebien Sørensen comanda a farmacêutica dinamarquesa Novo Nordsik desde 2000.	O primeiro colocado foi o dinamarquês Lars Rebien Sørensen, da farmacêutica Novo Nordisk.	3.0
+11613	O índice relativo a Bens Finais apresentou variação de 0,87%.	O índice relativo a Materiais, Equipamentos e Serviços registrou variação de 0,47%.	2.0
+11614	E de uma maneira especial, que diz respeito à luta contra o câncer de mama.	É preciso olhar o câncer de mama de uma outra maneira.	2.25
+11615	A publicação de fotos nuas está totalmente ultrapassada agora.	As fotos nuas darão vez a imagens provocativas de mulheres vestidas.	3.0
+11616	Em 2015, o título vai para a cantora Lady Gaga.	Pelo Twitter, Lady Gaga comemorou o reconhecimento.	2.75
+11617	A crise do Atlético Paranaense, que parece não ter fim, ganhou mais um capítulo.	O Atlético Paranaense está fora da Copa do Brasil 2015.	3.25
+11618	Toda a indústria automotiva teve queda nesse trimestre, desde os automóveis leves.	Trata-se da primeira queda verificada pelo indicador desde o terceiro trimestre de 2003.	2.5
+11619	Cinco das oito classes de despesa componentes do índice apresentaram acréscimo em suas taxas de variação.	Seis das oito classes de despesa que compõem o índice apresentaram alta na taxa.	3.5
+11620	Cerca de 3 milhões de muçulmanos participam da peregrinação a Meca.	Hajj é o nome dado à peregrinação realizada à cidade santa de Meca pelos muçulmanos.	3.0
+11621	O repórter confirmou que estavam sendo transportado no porta malas de um dos veículos 240 quilos de pó de gesso.	No porta malas de um dos carros haviam 169 invólucros de pó de gesso.	3.75
+11622	A OAS é a segunda empreiteira condenada na Lava Jato.	A operação Lava Jato teve início há pouco mais de um ano.	2.0
+11623	Segundo informações do TMZ, a ex-namorada cometeu suicídio e deixou uma carta para o eterno amado.	Uma carta de suicídio teria sido deixada pela ex-namorada, informou o TMZ.	4.0
+11624	Já Filipe Toledo teve uma vida mais fácil em relação às fases anteriores.	O primeiro a garantir presença na próxima fase foi Filipe Toledo.	2.5
+11625	De acordo com o site TMZ, a cantora Britney Spears comprou uma nova casa.	Segundo informações divulgadas pelo site TMZ, Britney Spears está de casa nova.	5.0
+11626	No total, a Acnur diz que 514.193 imigrantes e refugiados chegaram ao continente por mar.	A Síria foi a origem de 54% dos refugiados e imigrantes que chegaram por mar ao continente.	3.5
+11627	Entre os que têm renda familiar abaixo de dois salários mínimos, 35% votariam se não fossem obrigados.	Entre as pessoas com renda superior a dez salários mínimos, 62% votariam.	3.0
+11628	Nessa primeira votação foi aprovado o fim da reeleição para cargos do Executivo: presidente, governador e prefeito.	A Câmara dos Deputados aprovou ontem o fim da reeleição para cargos no Executivo.	4.0
+11629	Pizzolato deixou o Brasil em 2013, usando passaporte falso do irmão já morto.	Pizzolato fugiu para a Itália em 2013 e foi preso lá com passaporte falso.	3.75
+11630	O objetivo da “Ação Saúde” é mostrar para a sociedade como o farmacêutico pode ajudar a população.	A população pode procurar um farmacêutico para se consultar e avaliar sua saúde.	3.0
+11631	Ao todo, 330 deputados votaram à favor da PEC, e 141 votaram contra.	O texto foi aprovado por 330 votos a favor e 141 contra.	4.0
+11632	A Polícia Militar estima o número de pessoas em 700.	De acordo com o movimento, cerca de 500 pessoas ocuparam o local.	2.5
+11633	Eles tiveram as camisas rasgadas e só conseguiram sair da reunião escoltados por seguranças.	Apesar da escolta de seguranças, eles tiveram a camisa rasgada e precisaram pular uma cerca.	3.25
+11634	Rafinha perdeu no primeiro julgamento e decidiu entrar com dois recursos.	No segundo julgamento, Rafinha teve dois votos contra e um a favor.	2.75
+11635	Edson Ratinho entrou na área e tocou por cima de Cássio.	A equipe de Santa Catarina teve chances com Edson Ratinho, mas Cássio salvou o Timão.	2.75
+11636	A frase é do presidente da Síria Bashar al-Assad em entrevista a uma televisão estatal local.	Moscou apoia o governo do presidente sírio, Bashar al-Assad.	2.0
+11637	Para o câmbio, as previsões foram elevadas de R$ 3,95 para R$ 4,00 ao fim de 2015.	A previsão para a taxa de câmbio em 2015 ficou em R$ 4,00.	3.75
+11638	Neste caso, o aumento foi de R$ 40,17 bilhões.	Os governos regionais tiveram perdas de R$ 959 bilhões.	1.25
+11639	"Playboy, mais do que uma ""revista de nu"", é uma publicação que discute o comportamento masculino."	"A revista ""Playboy"" vai parar de publicar imagens de mulheres nuas."	2.75
+11640	Ela teve traumatismo craniano e chegou a perder parte da orelha.	Uma mulher ainda está na UTI porque teve traumatismo craniano.	3.5
+11641	"Parece que Bruna Marquezine não tem vocação para manter a ""amizade"" depois de seus relacionamentos."	A ex-namorada a quem se referia é a atriz global Bruna Marquezine.	2.5
+11642	A Caixa Econômica Federal informou também que 106 apostas acertaram 5 números e levaram com isso R$ 36.347,41 cada um.	A quina teve 106 apostas ganhadoras, que receberão R$ 36.347,41 cada.	4.25
+11643	Para o próximo ano, a previsão ficou em déficit de US$ 54,00 bilhões.	Já para 2016, a projeção subiu de US$ 23,50 bilhões para US$ 24 bilhões.	2.5
+11644	Aos 52 anos, Paulo Zulu retornou às passarelas nesta semana.	Terminou o casamento de 23 anos de Paulo Zulu (52 anos) com a ex-modelo Cassiana Mallman.	2.5
+11645	A próxima palavra cabe agora ao presidente Aníbal Cavaco Silva.	O presidente Aníbal Cavaco Silva deve convidar logo o partido com mais votos para formar um governo.	2.75
+11646	A Polícia Federal deflagrou nesta quinta-feira a 13ª fase da operação Lava Jato.	Não é a primeira vez que Milton Pascowitch foi alvo da operação Lava Jato.	2.5
+11647	Todos eles já tem passagem pela polícia da cidade.	De acordo com o delegado Laércio Evangelista, a população cobra justiça.	1.5
+11648	O técnico Roger estreou no Grêmio com um empate em 1 a 1 contra o Goiás.	O Grêmio de Roger Machado começou bem o jogo contra o Goiás.	3.5
+11649	Segundo informações da imprensa, relatórios da Polícia Federal apontam que Meigan participaria do esquema de corrupção.	Relatórios da Polícia Federal apontam que o Banco Santander teria participado do esquema.	2.25
+11650	Tite, no segundo tempo, trocou Ralf por Mendoza.	O atacante Mendoza entrou no lugar do volante Ralf.	4.25
+11651	Júlio César também falou sobre a última Copa do Mundo.	Durante o último Mundial, Júlio César disputava a liga americana de futebol.	2.25
+11652	O consagrado profissional da dramaturgia aparece ao lado de sua esposa, Marilene Saade.	Em uma das imagens, Marilene Saade aparece com um celular na mão.	1.75
+11653	O Aedes aegypti é capaz de transmitir até 23 vírus.	A capacidade de transmissão do vírus por uma fêmea pode chegar a 60 pessoas.	2.75
+11654	A decisão poderá afetar a senadora Marta Suplicy.	A senadora Marta Suplicy comemorou nesta quarta-feira a decisão do Supremo.	2.75
+11655	Além do título, a autora ganha 8 milhões de coroas suecas (cerca de R$ 3,75 milhões).	Os vencedores dividirão 8 milhões de coroas suecas, o equivalente a R$ 3,8 milhões.	3.0
+11656	O contingenciamento é um passo do reequilíbrio fiscal de quatro anos.	O governo apresentou proposta de reequilíbrio fiscal que é gradual.	3.5
+11657	O Flamengo, por sua vez, ciente do interesse do clube paulista, sugeriu a troca pelo meio Elias.	Ciente do interesse dos paulistas, o Urubu até tentou novamente Elias.	3.25
+11658	Na última vez que Barcelona e Bayer Leverkusen se enfrentaram no Camp Nou, Lionel Messi foi a estrela.	Era a primeira partida do Barcelona após a lesão do craque Lionel Messi.	2.0
+11659	Os demais agentes públicos serão alocados na classe econômica.	Todo o resto dos funcionários públicos terá que embarcar na classe econômica.	4.75
+11660	A divergência aberta por Toffoli foi seguida pelos ministros Gilmar Mendes, Marco Aurélio Mello e Teori Zavascki.	Acompanharam a posição defendida por Dias Toffoli os ministros Gilmar Mendes e Marco Aurélio.	4.25
+11661	A presidente Dilma Rousseff empossa, nesta segunda-feira (5), os novos ministros, em cerimônia no Palácio do Planalto.	Dez ministros tomaram posse nesta segunda-feira (5) numa cerimônia no Palácio do Planalto.	4.0
+11662	Seis estações marcaram temperaturas acima dos 45 graus.	Em Nova Delhi, as temperaturas atingiram os 45 graus Celsius.	2.75
+11663	No total, os valores atingem 22,6 milhões de reais.	O total das multas soma R$ 22,7 milhões.	3.25
+11664	Nós temos que analisar e é isso que está sendo feito.	Enquanto ele me ofender, eu processarei.	1.25
+11665	O movimento popular internacionalmente conhecido por Outubro Rosa é comemorado em todo o mundo.	Não apenas no Outubro Rosa, como estamos lembrando este mês.	2.0
+11666	Del Nero negou ter conhecimento de qualquer caso de pagamento de propina.	Del Nero negou que seja suspeito das investigações.	2.75
+11667	Então, não há violação da LRF nesse sentido.	Não há violação da LRF (Lei de Responsabilidade Fiscal).	4.75
+11668	O presidente Renan Calheiros suspendeu a sessão em duas ocasiões devido aos protestos.	O presidente do Senado, Renan Calheiros, também votou contra.	2.25
+11669	A BBC Three anunciou o desenvolvimento de uma série derivada sobre a origem de Doctor Who, intitulada Class.	A BBC anunciou que vai lançar uma série derivada de “Doctor Who”.	4.0
+11670	A partir daí, a Capa foi passada para o filho mais velho de cada geração.	Deste dia em diante, a capa foi passada para o mais velho de cada nova geração.	5.0
+11671	Esses são os primeiros aparelhos vindos com o Windows 10 de fábrica.	O Windows 10, porém, exige que os aparelhos tenham boa capacidade de armazenamento interno.	2.5
+11672	Trata-se do menor valor para meses de maio desde 2010, quando totalizaram US$ 1,15 bilhão.	Os empréstimos totalizaram saídas de US$1 bilhão.	1.75
+11673	Com 22 gols na temporada, Alexandre Pato está em sua melhor fase e faz melhor ano de sua carreira.	Alexandre Pato, Rogério e Everton fizeram os gols da partida.	1.25
+11674	O primeiro recebeu apenas 21 votos a favor, 402 contra e duas abstenções.	Votaram contra a proposta 267 deputados, e 210 votara a favor.	2.25
+11675	Os salários variam de R$ 788 a R$ 9.627,44.	O auxílio mensal é no valor bruto de R$ 1.017,00.	1.5
+11676	O resultado leva o Palmeiras a 18 pontos, no sétimo lugar.	O Palmeiras saltou para o sétimo lugar, a três pontos do G4.	4.0
+11677	Neymar falou também sobre a renovação de contrato com o Barcelona, tema que é bastante comentado na Europa.	Neymar comentou sobre o contrato com o Barcelona.	4.0
+11678	O veto deve ser publicado amanhã (22) no Diário Oficial da União.	O veto da presidente será publicado no Diário Oficial desta quarta-feira.	3.75
+11679	A presidente dedicou parte do discurso para falar de economia.	No fim do discurso, Dilma falou de corrupção.	3.25
+11680	Todas essas questões são abordadas na novela 'Verdades Secretas', da Rede Globo.	Vai ao ar hoje (17/09), na Globo, o capítulo 59 da novela Verdades Secretas.	2.5
+11681	Os salários variam entre R$ 788 e R$ 4 mil, sendo que os maiores salários são oferecidos aos médicos.	Já o salário oferecido para as vagas de professor é de R$ 1.273,20.	2.25
+11682	A quadra teve 2.143 apostas ganhadoras, que levaram prêmio de R$ 6.133,01 cada uma.	Outras 2.143 apostas acertaram quatro números e levaram R$ 6.133,01.	5.0
+11683	No período da tarde, discursará o presidente cubano Raúl Castro.	Mas o pronunciamento que mais deve chamar a atenção nesta segunda é o do líder cubano, Raúl Castro.	3.75
+11684	Quanto pior o país estiver, pior para o conjunto da população brasileira.	Enfrentamos um momento que muita gente considera que quanto pior, melhor.	2.25
+11685	Dilma acrescentou que o Brasil não pode aceitar a intolerância e defendeu políticas voltadas para diferentes grupos sociais.	Segundo Dilma, não se pode aceitar no Brasil a intolerância.	3.75
+11686	Dessa vez, o destaque ficou por conta do Bolsa Família.	Sua proposta gerou em torno do Programa Bolsa Família.	3.0
+11687	Em setembro do ano passado, a balança comercial brasileira havia registrado déficit de US$ 943 milhões.	Nos primeiros nove meses do ano passado, a balança acumulava um déficit de US$ 742 milhões.	2.5
+11688	A outra vaga está entre Eslováquia segunda colocada devido ao confronto direto, e Ucrânia, terceira, cada uma com 19 pontos.	A outra vaga está entre Eslováquia e Ucrânia, ambos com 19 pontos.	4.0
+11689	Além da Petrobras, a Standard & Poor's rebaixou as notas de 30 empresas como resultado do rebaixamento do Brasil.	A Vale não foi afetada pelo rebaixamento da nota soberana do Brasil.	2.75
+11690	O etanol de segunda geração reaproveita o bagaço e a palha da cana-de-açúcar usados no etanol de primeira geração.	O etanol de segunda geração tem nicho muito forte no mercado exportador.	2.75
+11691	Para o Rio, as vendas começam no dia 12 de novembro deste ano.	A venda de ingressos para o Rio começa em 12 de novembro deste ano.	4.5
+11692	A lesão de Lionel Messi tem atrapalhado os planos do Barcelona.	O Barcelona terá que lidar com a ausência de Lionel Messi pelas próximas semanas.	3.25
+11693	A prefeita Lidiane Leite foi cassada pela Câmara de Bom Jardim no dia 4 de setembro.	No início de setembro, a Câmara Municipal de Bom Jardim cassou o mandato de Lidiane Leite.	4.25
+11694	Vice-campeã mundial, a brasileira compete na categoria até 75 kg da modalidade.	No ano passado, ela foi vice-campeã mundial e campeã mundial militar.	2.25
+11695	No entanto, pelo menos por enquanto, é Luis Suárez quem lidera o Barcelona.	Este papel, até aqui, tem sido de Luis Suárez.	3.5
+11696	Na semifinal, uma derrota esperada para a grande fera da categoria, Adeline Gray dos EUA, por 10 a 2.	Na semifinal, porém, ela perdeu para a americana Adeline Gray.	3.0
+11697	No sábado, o Grêmio volta a campo para encarar o Palmeiras, no Estádio do Pacaembu, em São Paulo.	Na próxima rodada, o Grêmio enfrenta o Palmeiras, no Pacaembu.	3.75
+11698	Pela primeira vez, pesquisadores da Nasa comprovaram a existência de água em estado líquido na superfície de Marte.	A Nasa afirmou a existência de água em estado líquido na superfície de Marte.	4.25
+11699	A 2ª dose da vacina está disponível para as meninas que receberam a 1ª dose em março.	Após a primeira, a menina recebe a segunda dose seis meses depois.	3.5
+11700	A presidenta Dilma Rousseff passou a quarta-feira reunida com lideranças do PT, PMDB e PDT.	A presidente Dilma está disposta a entregar cinco ou seis ministérios ao PMDB.	2.25
+11701	O Moto X Style permite diversas personalizações por meio do Moto Maker, que pode garantir até 126 opções de customização.	A personalização do Moto X Style pelo Moto Maker oferece mais de 100 opções.	4.0
+11702	Gulistan Qasani, disse que a hostilidade entre os dois grupos envolvidos no tiroteio já existe há muitos anos.	Pelo menos dois dos feridos são menores de 18 anos.	1.75
+11703	A operação foi autorizada e acompanhada pelo presidente Barack Obama.	Esta incursão na Síria teve que receber luz verde prévia do Presidente Barack Obama.	3.5
+11704	Em 2012, apenas 16 mil escolheram a Tunísia como destino de férias.	Pelo menos 60 pessoas morrem em ataques ocorridos na França, Tunísia e Kuwait.	1.0
+11705	São 19 vitórias dos gaúchos, contra nove dos paranaenses, além de 12 empates.	No final de semana gaúchos e paranaenses voltam a campo pelo Brasileirão.	2.0
+11706	Com 20 jogados, o jogo virou passeio e Götze finalmente fez o dele, o quinto do Bayern.	O Bayern começou como sempre faz em jogos na Allianz Arena.	1.75
+11707	O casal tem uma filha de 13 anos e estaria em processo de separação.	Segundo informações da corporação, o casal estava em processo de separação.	3.75
+11708	Já o Grêmio tem clássico contra o Internacional, em casa, às 18h30 do domingo.	Já o Grêmio é o sétimo colocado, com 27 pontos.	2.0
+11709	Os jogadores já estão há mais tempo na Seleção, então há um amadurecimento maior.	Os jogadores que passaram na Copa têm um amadurecimento maior para a Copa América.	3.75
+11710	É sem dúvida o melhor recomeço que poderíamos ter, porque vencemos grandes adversários.	Sem dúvida nenhuma, foi o melhor recomeço que a gente poderia ter.	3.75
+11711	O governo afirmou ter concedido reajuste de 45% em quatro anos.	Eles ficaram parados por 92 dias e encerraram a paralisação sem o reajuste reivindicado.	2.0
+11712	Primeiro presidente eleito do Egito em 30 anos, Morsi foi derrubado por militares em julho de 2013.	Morsi, primeiro presidente democraticamente eleito no Egipto, pode fazer recurso.	3.25
+11713	Na sexta-feira (9) será anunciado o Nobel da paz pelo comitê norueguês responsável pelo prêmio.	O Prêmio de Medicina foi o primeiro Nobel deste ano a ser anunciado.	2.5
+11714	Um acidente acontedeu este domingo, num centro comercial da China.	O caso aconteceu na China e emocionou população.	2.25
+11715	O juiz Shaaban el-Shami marcou nova audiência do julgamento para o dia 2 de junho.	No dia 2 de junho, será anunciado o destino do ex-ditador.	3.5
+11716	Em 2001 recebeu a Ordem do Império Britânico e em 2009 foi armado Cavaleiro.	Em 2009, ele ganhou o título de Cavaleiro Real do Império Britânico.	3.5
+11717	O Gaeco quer saber, entre outras informações, se foi um confronto ou uma execução.	Além dele, outros oito policiais civis foram detidos pelo Gaeco.	2.0
+11718	O Brasil não pode conviver com taxa alta de inflação.	A inflação foi destaque no Bom Dia Brasil.	2.25
+11719	Ele tem 30 dias para apelar da decisão da Justiça Federal da Suíça que autoriza a extradição.	O cartola venezuelano tem 30 dias para recorrer da decisão do governo suíço.	3.25
+11720	Uma família foi golpeada até que morreu: o pai, a mãe e o filho.	Uma família foi golpeada até morrer com tábuas de madeira.	4.0
+11721	Morreu nesta sexta-feira (12) o músico e compositor Fernando Brant, 68 anos, em Minas Gerais.	Morreu nessa sexta-feira o compositor Fernando Brant.	3.75
+11722	Um novo tiroteio deixou mais duas pessoas mortas na manhã de domingo.	Na segunda-feira, outras duas pessoas foram mortas na região.	2.25
+11723	No entanto, nos últimos anos da ditadura, Pinochet e Contreras desentenderam-se.	Mas quando a ditadura de Pinochet chegou ao fim, fugiu.	2.0
+11724	A bola saiu mascada e sobrou para o camisa 9, que chutou de primeira.	Após bate-rebate dentro da área a bola sobrou para Biro Biro que chutou.	4.0
+11725	O enterro está marcado para hoje às 16h30, no Cemitério do Bonfim.	O enterro será hoje à tarde, Cemitério do Bonfim.	4.25
+11726	O fogo se alastrou rapidamente porque as casas são de madeira e estão próximas umas das outras.	O fogo se alastrou rápido devido as casas serem de madeira.	4.0
+11727	A autorização foi concedida nesta sexta pelo ministro do STF Luís Roberto Barroso.	A decisão foi do ministro Luis Roberto Barroso, relator do mensalão no Supremo.	4.0
+11728	Hoje, dia 1º de agosto, tem início a Semana Mundial do Aleitamento Materno.	Cinquenta e quatro dias é a média brasileira de aleitamento materno exclusivo.	2.5
+11729	A expectativa é que esse corte no orçamento da União oscile entre R$ 60 bilhões e R$ 80 bilhões.	Afirmou que o corte poderá variar de R$ 70 bilhões a R$ 80 bilhões.	4.0
+11730	A doença foi detectada em 2012 na Arábia Saudita.	O país foi o maior foco da epidemia depois da Arábia Saudita.	2.5
+11731	O índice do grupo Bens Intermediários registrou variação de 1,06%.	O índice relativo a Materiais, Equipamentos e Serviços registrou variação de 0,72%.	2.25
+11732	A conversa será veiculada em uma edição especial do Programa do Jô.	A conversa entre Jô e Dilma será gravada na própria sexta.	2.75
+11733	Ao seu lado estavam o marido, o ex-presidente Bill Clinton, e a filha Chelsea.	A plateia gritava o nome de Hillary, mulher do ex-presidente Bill Clinton.	2.75
+11734	A informação é do jornal Folha de S.Paulo.	Esse é o nosso governador que cuida de São Paulo.	1.0
+11735	Dez pessoas já teriam morrido e seus corpos foram atirados ao mar.	Dez pessoas morreram durante a viagem.	3.5
+11736	Um ladrão armado entrou no comércio, rendeu um menor de 17 anos e roubou 300 reais e correntinha de ouro.	Armado de revólver, rendeu dois frentistas e roubou 144 reais.	2.25
+11737	Nações com histórico de rivalidade, Iraque e Arábia Saudita voltam a disputar o mercado internacional.	Iraque e Arábia Saudita respondem por três quartos desse crescimento.	2.25
+11738	King foi internado no início de maio em Las Vegas por uma desidratação.	King faleceu aos 89 anos em Las Vegas.	3.0
+11739	O Santos anunciou nesta sexta-feira o retorno do zagueiro Leonardo, de 29 anos, que estava no Ituano.	O Santos anunciou de forma oficial a contratação do zagueiro Leonardo nesta sexta-feira.	4.0
+11740	A gente não pode ter um presidente na Câmara que se vinga.	Claro que ele como presidente fica numa posição mais delicada.	1.5
+11741	Será a terceira vez que a montadora recorre à medida para ajustar a produção à demanda só neste ano.	A empresa disse que as medidas são para ajustar a produção à demanda.	4.0
+11742	Para se candidatar, é preciso ter o apoio de cinco federações estaduais e três clubes.	Fazem parte dele as 27 federações estaduais e os 20 clubes da Primeira Divisão.	2.25
+11743	Petistas ironizam a saída de Tarso propondo troca por Luciana Genro, filha do ex-governador.	Petistas dão como certa a saída do ex-governador gaúcho Tarso Genro do PT.	3.25
+11744	O centroavante ainda não foi oficializado, mas deve ser apresentado amanhã na Academia de Futebol.	O novo centroavante do Palmeiras já está treinando na Academia de Futebol.	3.75
+11745	Segundo o procurador, Luiz Argôlo era o parlamentar com a relação mais próxima do doleiro Alberto Youssef.	Segundo a Procuradoria da República, Argôlo visitou 78 vezes o doleiro Alberto Youssef.	3.5
+11746	A Justiça italiana havia negado, em outubro, o pedido de extradição de Henrique Pizzolato.	A extradição de Henrique Pizzolato ao Brasil já tem data marcada.	3.25
+11747	Se fosse campeão, o Corinthians faturaria mais de R$ 15 milhões com a premiação do torneio.	Atualmente, a folha salarial do Corinthians ultrapassa os R$ 10 milhões mensais.	2.5
+11748	Ele acabou sendo preso em Maranello, em fevereiro de 2014.	No ano passado, foi preso na cidade de Maranello.	3.5
+11749	Lula logo apresentou Marcelo a Dilma, que na época era a ministra de Minas e Energia.	Em pouco tempo Lula apresentava Marcelo a Dilma, então Ministra de Energia.	5.0
+11750	A Petrobras fechou janeiro, fevereiro e março com R$ 68,2 bilhões em caixa.	A estatal terminou o trimestre com R$ 68,2 bilhões em caixa.	4.0
+11751	É possível ver perfeitamente o corpo do jacaré, com a cabeça no lado esquerdo do raio-X.	No raio-X é possível ver que restam apenas as partes mais resistentes da presa.	3.25
+11752	Aumentar os cortes em investimentos e gastos com a máquina.	Reduzir os juros para aliviar os gastos.	2.25
+11753	O jantar é servido a partir das 20h.	Para o jantar, o funcionamento é das 19h à meia-noite.	2.5
+11754	O governador do Rio de Janeiro, Luiz Fernando Pezão, tem 15 dias para sanção.	Após a sessão, o projeto segue para sanção do governador Luiz Fernando Pezão.	3.25
+11755	Marcelinho Paraíba, estreante da noite, arriscou de fora da área e a bola passou perto da trave.	A primeira chance clara do JEC saiu dos pés do estreante Marcelinho Paraíba.	4.0
+11756	A população brasileira, nesse mesmo período, cresceu cerca de 61%.	A título de comparação, a população brasileira cresceu 61% neste mesmo período.	5.0
+11757	A Honda revelou a linha 2016 do Fit.	O Fit é uma espécie de galinha dos ovos de ouro da Honda.	2.25
+11758	Isto será possível porque a partir de 20 de Julho as representações diplomáticas dos dois países abrirão as portas.	Os dois países têm como representações diplomáticas desde 1974 “seções de interesses”.	3.0
+11759	Ao postar o clique em sua conta no Instagram, o cantor não revelou se realmente fez a tatuagem.	O cantor, no entanto, não deixou claro se realmente fez a tatuagem.	4.0
+11760	O Executivo só poderá relaxar quando aprovar todas as propostas que compõem o ajuste fiscal.	O governo corre contra o tempo para aprovar as medidas do ajuste fiscal.	4.0
+11761	A partir de 2019, o programa prevê investimentos de 129,2 bilhões.	Programa de concessões prevê investimentos de R$ 198,4 bi em infraestrutura.	2.5
+11762	O tratamento é baseado no uso de paracetamol para febre e dor.	O tratamento é feito com medicamentos para reduzir a dor, como paracetamol.	4.25
+11763	O dono da Azul vai ficar com 61% da TAP.	O novo dono da TAP já fez as suas contas.	2.75
+11764	Os três países integram o bloco Brics de países emergentes.	O método consistiu na avaliação de 100 países, desenvolvidos e emergentes.	1.75
+11765	A umidade relativa do ar mais baixa registrada nesta quinta-feira foi 15%.	Os termômetros oscilam entre 26 °C e 33 °C e umidade do ar de 18%.	2.5
+11766	No segundo trimestre, a receita bruta nominal cresceu 1,6% em relação a igual período do ano passado.	A receita nominal não leva em conta os efeitos da inflação no período.	2.75
+11767	Segundo o MTE, a economia do FAT nesse caso é de 51%.	O MTE estima em quase R$ 6 milhões a economia para o FAT.	3.75
+11768	Mal na partida, o Grêmio deixou tudo igual aos 20 minutos graças a mais uma falha defensiva do Palmeiras.	Palmeiras e Grêmio fizeram neste sábado mais uma grande partida do Campeonato Brasileiro.	3.0
+11769	Se aprovado, o reajuste pode gerar R$ 1,9 bilhão para os cofres estaduais a partir do próximo ano.	A modificação injetaria R$1,9 bilhão por ano nos cofres do Estado.	3.75
+11770	O “gaúcho da Copa” era torcedor do Grêmio e vinha lutando contra um câncer há mais de 9 anos.	O “gaúcho da Copa” lutava contra um câncer.	3.75
+11771	O iPhone 6S possui tela de 4,7 polegadas com resolução de 1334 x 750 pixels.	Já a versão Plus chega com 1920 x 1080 pixels, em uma tela de 5,5 polegadas.	2.75
+11772	O que ninguém esperava era ver uma pessoa pegando a fila remotamente.	Enquanto isso, Lucy interage remotamente com as pessoas da fila por meio do iPad.	2.25
+11773	Na área da saúde, a paralisação foi parcial.	Ao todo, mais de 40 sindicatos aderiram à paralisação.	2.25
+11774	Sua morte foi confirmada pelo Hospital Santa Casa, onde estava internado.	Clóvis estava internado na Santa Casa de Misericórdia de Porto Alegre desde julho.	2.75
+11775	O Ministério da Saúde confirmou nesta quinta-feira (24) o fim do surto de sarampo no Ceará.	A partir de quinta-feira (24), nenhum caso mais foi confirmado no Ceará, completando 10 semanas sem casos de sarampo.	3.75
+11776	Ele falou que estava à disposição, então o trouxe para cá.	Ele disse que estava à disposição e por isso trouxemos para cá.	4.75
+11777	No passado, foram 450 mil declarações em atraso e 550 mil retificadoras.	Já as entregas fora do prazo somam cerca de 450 mil.	3.25
+11778	Segundo relatos de moradores, houve vários casos de assalto em Ipanema, Copacabana e Botafogo.	Outros estabelecimentos de Botafogo também foram roubados e moradores relataram que houve arrastão.	3.5
+11779	Durante a madrugada, algumas viaturas da Brigada Militar circulavam pelas ruas de Porto Alegre.	Conforme a Brigada Militar, o ato reuniu 30 mil pessoas.	2.0
+11780	O vice-governador ganha R$ 20.743,83 por mês, os secretários, R$ 18.038,12, e os administradores, R$ 14.430,49.	Hoje, o salário do governador do DF é de R$ 23.449,55.	2.5
+11781	Para relator, lei em vigor é muito rigorosa com o cidadão de bem.	Na avaliação do relator, a legislação em vigor é “muito dura” com o cidadão de bem.	5.0
+11782	Para o ministro Arthur Chioro, a erradicação da doenção foi algo fundamental no Ceará.	O anúncio foi feito em Brasília pelo ministro Arthur Chioro e pelo governador do Ceará, Camilo Santana.	2.75
+11783	Ney Franco não contava na partida com 13 jogadores.	Desarticulado, o time de Ney Franco sofreu.	2.75
+11784	Em maio, endividamentos interno e externo somavam R$ 2,49 trilhões.	Em maio, a dívida estava avaliada em 2,49 trilhões de reais.	4.25
+11785	O clima na cidade é de tensão e uma guerra entre bandidos e justiceiros foi declarada pelas redes sociais.	Via redes sociais, baderneiros e justiceiros já declararam guerra publicamente.	3.75
+11786	Ozzy Osbourne foi o primeiro artista a confirmar presença em um Rock in Rio.	Em 2011, o Rock in Rio voltou ao Brasil após dez anos.	2.25
+11787	E foi justamente isso o que aconteceu com Luana Piovani.	Luana Piovani está feliz da vida.	1.75
+11788	Em julho, sem as receitas extraordinárias, a arrecadação federal é de R$ 102,531 bilhões.	Já para o acumulado do ano, o resultado seria de R$ 702,076 bilhões.	1.5
+11789	O Outubro Rosa chegou e com ele várias campanhas de conscientização contra o câncer de mama.	O mês de outubro marca a importância da conscientização sobre o câncer de mama.	4.0
+11790	O processo acabou por ser anulado e Peter Greste deportado para a Austrália, em fevereiro deste ano.	Greste foi deportado em fevereiro deste ano, após passar 400 dias na prisão.	4.0
+11791	Por isso, ele considera a estratégia do acordo com as empresas do setor automotivo inteligente e agregadora.	Vamos reproduzir o modelo do setor automotivo com outros setores.	2.5
+11792	No entanto, receber um Super Like pode influenciar em sua decisão.	Ou seja, a pessoa que recebe um Super Like vai tomar conhecimento disso com mais facilidade.	3.0
+11793	Precisamos buscar solução para uma crise que atinge todos os estados e municípios do país.	Nós precisamos encontrar uma solução de saída da crise que atinge os estados e municípios do país.	5.0
+11794	O resultado, divulgado hoje pelo BC, mostra que a economia está em recessão.	O indicador revela, no entanto, que a economia está em recessão.	4.0
+11795	Em junho, havia sido registrada alta nos preços de 0,68%.	Em julho de 2014, o IPCA-15 havia sido 0,17%.	2.25
+11796	Para que a votação seja concluída, será necessário analisar os quatro destaques na próxima reunião do colegiado.	Assim, os destaques devem ser apreciados em uma próxima reunião do colegiado.	3.75
+11797	As notas dessas instituições foram reduzidas de BBB- para BB+, com perspectiva negativa.	O rating da Sul América passou de de BB para BB-, com manutenção da perspectiva negativa.	2.75
+11798	O dia da padroeira do Brasil, Nossa Senhora Aparecida é na segunda-feira (12).	Quatro Paróquias da Arquidiocese da Paraíba têm Nossa Senhora Aparecida como Padroeira.	2.25
+11799	O objetivo da ANCINE é zerar o passivo de prestações de contas pendentes de apreciação.	Algumas prestações estão em análise desde 1998, tempo anterior à Ancine.	2.25
+11800	O terremoto no Chile teve reflexos até no Estado de São Paulo na noite desta quarta-feira.	O Chile tem as mais relevantes normas de construção para terremotos no mundo.	1.75
+11801	A melhora só aconteceu após as declarações de Cunha à imprensa.	É o nosso hábito de conversar regularmente.	1.0
+11802	Ele definiu prazo de cinco sessões para que qualquer parlamentar apresente recurso contra o indeferimento.	Cunha estabeleceu o prazo de cinco sessões para que o recurso seja apresentado, em caso de indeferimento.	4.0
+11803	Miley Cyrus posou de topless e máscara de beleza para selfies.	Quem segue Miley Cyrus no Instagram tem uma surpresa a cada dia.	2.25
+11804	Artilheiro do Brasileirão, com 17 gols, Ricardo Oliveira não era convocado desde março de 2007.	Ricardo Oliveira, de 35 anos, é o artilheiro do Campeonato Brasileiro, com 17 gols.	3.5
+11805	Modern Family provavelmente vai ganhar seu sexto Emmy de melhor comédia.	Estava demorando para Modern Family aparecer nessa lista.	2.0
+11806	Não se deve ignorar o elemento comemorativo de Super Mario Maker.	Além disso, o novíssimo Super Mario Maker poderia ser algo totalmente diferente.	2.75
+11807	Veep levou quatro dos prêmios principais, o de Melhor série de comédia, atriz, ator coadjuvante e roteiro.	As outras quatro séries são coadjuvantes na disputa de melhor drama.	2.0
+11808	De acordo com o estudo, cerca de 15% das entrevistadas disseram ter sofrido abordo espontâneo em 2013.	Cerca de 45% das mulheres fizeram parto normal.	2.25
+11809	"Anne Hathaway contou ainda que a música que mais gosta de Mariah é ""We Belong Together""."	Anne ainda diz que estava ouvindo We Belong Together antes da premiére.	3.25
+11810	Assim como o Live Photos, o recurso 3D Touch é aberto para os desenvolvedores.	O 3D Touch fica ainda mais legal quando você abre os apps.	2.0
+11811	As investigações indicam que a morte foi acidental.	Tudo encaminha para o indiciamento por homicídio culposo.	2.75
+11812	A imunização contra HPV é composta por três doses.	O esquema de vacinação adotado pelo Ministério da Saúde é composto por três doses.	3.25
+11813	Todo jogo para a Seleção Brasileira é para valer.	Recentemente, nós tivemos um jogo contra eles na Inglaterra.	1.5
+11814	O Mundo das Tribos reuniu informações detalhadas sobre o Novo office 2016, lançamentos e preços.	A Microsoft ainda não informou quanto vai custar o Office 2016.	2.25
+11815	Os tipos 16 e 18 causam em torno de 70% dos casos de câncer do colo de útero.	O HPV, quando não tratado, é a principal causa de câncer de colo do útero.	2.75
+11816	A corrida de 10 Km terá início posteriormente, às 8h15.	O início e final da corrida serão realizados em frente ao Paço Municipal.	2.5
+11817	Será a primeira vez que o julgamento será feito com a sigla tendo 500 mil assinaturas validadas pelo tribunal.	Foram mais de um milhão de assinaturas coletadas e quase 500 mil assinaturas validadas.	3.5
+11818	"A apresentadora arrancou aplausos da plateia ao dublar ""Love Of My Life"", sucesso na voz de Freddie Mercury."	Com direito a bigode, Fátima dublou a canção Love Of My Life.	3.75
+11819	Valcke teve uma atuação polêmica durante os preparativos para a Copa de 2014 no Brasil.	No dia 2 de abril de 2013, Valcke confirmou o acordo por e-mail.	2.25
+11820	As diligências ocorrem nas cidades de São Paulo, Rio de Janeiro e Florianópolis.	A ação da PF ocorre em três Estados: São Paulo, Santa Catarina e Rio de Janeiro.	3.75
+11821	O Audi Q6 poderá ser o segundo carro elétrico da Audi.	O Audi Q6 e-tron será um rival direto do Tesla Model X.	2.5
+11822	Até as 12h01 desta terça-feira, a Codesal recebeu 184 ocorrências.	O último resgate no local ocorreu na tarde desta terça-feira.	1.25
+11823	A 5ª edição da Marcha das Margaridas reúne em Brasília aproximadamente 35 mil mulheres.	A Marcha das Margaridas é realizada a cada quatro anos em Brasília.	3.0
+11824	A emoção tomou conta do terceiro dia do Rock in Rio.	No terceiro dia de Rock in Rio, o público se sentiu numa grande família.	3.25
+11825	Dilma citou ainda que em seu primeiro mandato o salário mínimo cresceu 14,8% acima da inflação.	No primeiro, Dilma tratou da política de reajuste do salário mínimo.	3.25
+11826	Com isso, cerca de R$ 9 bilhões que seriam pagos neste ano ficaram para 2016.	A previsão inicial era que todos os benefícios fossem pagos até outubro de 2015.	2.5
+11827	Enviar e receber mensagens diretas via SMS continuará com o limite original.	O Twitter acabou com o limite de 140 caracteres nas mensagens diretas.	1.75
+11828	A gente não se arrepende de ter feito a foto.	Porque a gente vai fazer uma peça.	1.0
+11829	O rato, de nome científico Hyorhinomys stuempkei, foi descoberto por cientistas na Indonésia.	Um grupo de cientistas descobriu uma nova espécie de rato na Indonésia.	4.0
+11830	Os profissionais seguem as pautas da Associação Nacional de Médicos Residentes, que lista nove reivindicações.	O Movimento Nacional de Valorização da Residência Médica é organizado pela Associação Nacional dos Médicos Residentes (ANMR).	3.0
+11831	Gerd Müller é um dos maiores jogadores de futebol do mundo.	Gerd Müller é um dos grandes nomes do futebol mundial.	4.75
+11832	O cantor é o novo assistente de Claudia Leitte.	É bom lembrar que Claudia Leitte está em uma ótima fase na música.	1.75
+11833	O cartão de confirmação da inscrição pode ser impresso informando CPF e senha na Página do Participante do INEP.	É necessário informar o número do CPF e senha para visualizar os dados.	3.25
+11834	A situação de Jorge Horacio Messi, no entanto, é pior, e o MP solicita reclusão de 18 anos.	Há situação do pai do jogador, Jorge Horacio Messi, é bem pior.	3.5
+11835	O sueco Felix Kjellberg tem 25 anos e vive de fazer vídeos para o Youtube.	A diferença é que cada vídeo novo de Felix chega para 40 milhões de pessoas por e-mail.	3.0
+11836	Uma outra dica muito importante da Apple é fazer backup do seu aparelho antes de iniciar o update.	A Apple recomenda fazer um backup antes de iniciar a atualização.	4.5
+11837	Em todo 2014, as fraudes resultaram no desvio de 2,58 bilhões de litros.	Entre janeiro e julho de 2015, são 2,46 bilhões de litros consumidos de forma irregular.	2.75
+11838	O ator se apresentará com a banda Hollywood Vampires nesta quinta, 24, no Palco Mundo.	Guitarras do Hollywood Vampires arrumadas para o show desta quinta (24) no Palco Mundo.	3.0
+11839	Edinho disse que não conhecia os diretores da Petrobras e não teria nenhuma influência sobre aquela área.	Durante o depoimento, Edinho disse não se lembrar exatamente das datas dos encontros.	2.0
+11840	Os R$ 700 milhões serão pagos a empresas públicas que tiveram prejuízos com a corrupção.	Mesmo com este desconto, o valor poderá chegar a R$ 104 milhões.	1.5
+11841	O modelo de 21,5 polegadas e tela 4K é a novidade, e começa em US$ 1.499 (R$ 5.755).	A novidade é uma versão com tela 4K com tamanho de 21,5 polegadas.	4.0
+11842	Em Paris, o índice CAC-40 caiu 3,19%, aos 4.630 pontos.	O termômetro tecnológico Nasdaq caiu 3,52%, para 4.706.04.	2.25
+11843	Fica uma sensação de amargura pela partida.	Estava a metros e ficou claro que ele solou.	1.0
+11844	O Instagram completou cinco anos de existência na última terça-feira (6).	A rede social Instagram acaba de completar cinco anos de vida.	3.75
+11845	Em quarto lugar, vem a própria Kim Kardashian, com 2,4 milhões de curtidas.	Logo depois vem Kim, que possui 48,1 milhões de fãs.	2.5
+11846	A esta altura, o United já estava perdido em campo.	O pesadelo do United não acabou por aí.	2.25
+11847	Na embaixada em Porto Príncipe, o MRE emite mensalmente, cerca de 2.000 vistos para imigrantes haitianos.	A embaixada em Porto Príncipe emite 2 mil vistos desse tipo por mês.	4.0
+11848	Os números foram grampeados no início do governo da presidente Dilma Rousseff.	Na época, Dilma Rousseff cancelou a visita que estava programada para aquele ano.	2.0
+11849	Ao todo, a produção de caminhões atingiu 5.819 unidades no nono mês do ano.	No nono mês do ano, foram produzidos 174.240 veículos no país.	2.25
+11850	A divulgação da final foi na noite desta terça-feira, 15.	O canal se preparou para a noite desta terça-feira como gente grande.	2.25
+11851	Depois, Melo e Klaasen, assim como os colombianos, confirmaram seus serviços e forçaram o tie-break.	E os colombianos são rivais bem conhecidos de Melo.	2.25
+11852	O Brasil é um dos países que mais adicionou usuários à rede, junto ao Japão e à Indonésia.	Já os países que mais trouxeram novos perfis para a rede são Brasil, Japão e Indonésia.	4.5
+11853	Não é apenas o pedido de sua família, mas é também o pedido do Bayern.	No Bayern de Munique, ele sempre terá lugar.	1.75
+11854	Horas depois, Augusto Nardes manifestou-se em nota publicada no site do TCU.	Nardes é uma pessoa que está há muitos anos no TCU.	2.25
+11855	"Continuamos nos 60,5% para o ""não"" contra 39,4% para o ""sim""."	Os gregos terão que escolher entre duas respostas: não ou sim.	2.0
+11856	Caminhões terão limite máximo reduzido para 60 km/h.	Já na local, diminuirá de 70 km/h para 50 km/h.	2.5
+11857	Quase 30 suspeitos de furtos foram detidos em Botafogo e na orla de Ipanema e do Arpoador no sábado.	Os crimes foram verificados na orla do Leblon, Ipanema, Arpoador e Copacabana, na Zona Sul.	2.5
+11858	Caso estivesse vivo, Lennon completaria hoje 75 anos.	Lennon completaria 75 anos hoje.	5.0
+11859	Os gols foram marcados por Téo Gutiérrez, no primeiro tempo, e Cardona no último lance do confronto.	Foi assim que saiu o gol de Téo Gutiérrez no primeiro tempo.	3.0
+11860	Pelo lado do Peru, o treinador Ricardo Gareca promete uma postura ousada como visitante.	O Peru voltou com outra postura no segundo tempo.	2.75
+11861	O técnico comandou o primeiro treino na manhã desta quinta.	No primeiro treino comandando por ele, aliás, isso pôde ser observado.	2.5
+11862	Depois, ele recebeu passe na esquerda, driblou Réver e chutou quase sem ângulo.	No rebote, Lucas chutou e a bola entrou no ângulo.	2.75
+11863	Nas primeiras horas da manhã, os ônibus não saíram das garagens.	Ônibus da STS operam desde o começo da manhã.	3.0
+11864	O funkeiro Mr. Catra anunciou em seu Facebook o nascimento do 32º filho dele.	Catra também já garantiu que sabe o nome de todos os filhos.	2.5
+11865	Os testes com o veículo em estradas devem começar em breve e logo teremos imagens do veículo da Apple.	Os testes do carro da Apple não devem demorar muito para acontecer.	3.75
+11866	Nenhum apostador acertou as seis dezenas do prêmio da Mega-Sena, concurso 1744 desta quarta-feira (23).	Ninguém acertou as seis dezenas do concurso 1744 da Mega Sena sorteado na noite desta quarta-feira (23).	4.75
+11867	O primeiro e mais ambicioso, que vem sendo desenvolvido desde 2013, é a série Fear the walking dead.	O segundo produto é a websérie Fear the walking dead: flight 462.	2.75
+11868	A mudança foi rejeitada por 236 deputados e teve 206 votos favoráveis.	Apenas 210 deputados foram favoráveis à proposta, e 267 votaram contra.	2.5
+11869	A Premier League é um dos campeonatos mais difíceis do mundo.	Na Premier League, os Reds têm 12 pontos, em oito rodadas.	2.25
+11870	Em maio, a Petrobras já havia obtido a devolução de R$ 157 milhões.	A Justiça Federal determinou a devolução de mais de R$ 69 milhões à Petrobras.	2.75
+11871	Essa será a primeira recessão para a região da América Latina e Caribe desde 2009.	Quanto à América Latina e Caribe, a entidade prevê recessão de 0,3%.	3.25
+11872	Em primeiro lugar, é importante lembrar que Sergipe produziu dois grandes quadros, Marcelo Déda e José Eduardo Dutra.	Natural do Rio de Janeiro, José Eduardo Dutra fez carreira política em Sergipe.	2.25
+11873	Eles entoaram protestos contra o presidente Recep Tayyip Erdogan.	O presidente turco, Recep Tayyip Erdogan, condenou o atentado.	2.25
+11874	A quina teve 65 apostas ganhadoras e cada uma vai receber R$ 45.507,40.	A quina foi acertada por 65 apostadores, que levaram cada um R$ 45.507,40.	5.0
+11875	Aldo Rebelo, ministro da Ciência e Tecnologia, deverá assumir o Ministério da Defesa no lugar de Wagner.	Aldo Rebelo deixará o Ministério da Ciência e Tecnologia para ocupar o Ministério da Defesa no lugar de Wagner.	4.75
+11876	Quem ainda não acertou as contas com o Leão precisa ficar atento.	Em torno de 44% dos contribuintes ainda não prestaram contas ao Leão.	3.5
+11877	Já Valdivia mostrou ter evoluído durante a semana após não jogar na arena por um edema no joelho esquerdo.	Já Valdivia, com um edema no joelho esquerdo, deve estar à disposição.	3.25
+11878	As operações mobilizaram navios italianos da guarda costeira, da marinha, da polícia aduaneira.	A guarda costeira italiana tem outras operações em curso.	2.25
+11879	O gol do Guaraní saiu aos 14 minutos do segundo tempo.	O gol paraguaio saiu no lance seguinte.	3.0
+11880	Góes está preso desde 8 de fevereiro em Curitiba, base das investigações da Lava Jato.	Ele é réu em dois processos da Lava Jato e está preso em Curitiba.	3.75
+11881	A Câmara concluiu nesta quarta-feira a votação do projeto que regulamenta a terceirização no país.	A Câmara Federal terminou de votar o projeto de regulamentação da terceirização.	4.25
+11882	Para Dias Toffoli, a regra vai de encontro ao que é desejável, que é a diminuição dos partidos políticos.	O ministro Dias Toffoli foi o único a divergir da relatora.	1.5
+11883	Os números do hospital mostram que 70% das famílias se negam a fazer a doação.	É possível se inscrever para fazer doação em vidada medula óssea, por exemplo.	2.0
+11884	A exposição terá entrada gratuita, com distribuição de senhas diariamente para três turnos de visitação.	A entrada é gratuita, mas será preciso pegar uma senha para ter acesso à exposição.	4.0
+11885	O show dos paralamas no palco Sunset foi às 19h deste domingo (20).	Legend foi o último artista escalado para o Sunset neste domingo.	1.75
+11886	A bordo da aeronave, que teve de fazer um pouso de emergência, estavam 18 militares.	A aeronave fez um pouso de emergência e três militares foram dados como desaparecidos.	3.75
+11887	A vacinação não exclui a necessidade da realização de exames periódicos, como o Papanicolau.	Por isso, o exame preventivo também deve ser feito mesmo em mulheres vacinadas.	3.0
+11888	A multa para quem atrasar a entrega da declaração do Imposto de Renda é de R$ 165,74.	O processo deverá ser feito via o sistema de declaração do imposto de renda.	2.25
+11889	E disse que, na correria, não sabe onde deixou a arma do crime.	Ele alega que não sabe onde a arma ficou por conta da correria.	5.0
+11890	A peça era toda plissada com detalhes em veludo e foi combinada com sandálias Saint Laurent e brincos Bvlgari.	Para completar o look, escolheu sandálias Saint Laurent e brincos Bvlgari.	4.0
+11891	A fase boa do Vasco da Gama continua.	O Vasco da Gama esfriou e começou a atuar de forma sonolenta.	2.0
+11892	Na Rússia, mais de 150 mil pessoas compareceram à Praça Vermelha, no centro da capital, Moscou.	Já em Moscou, 140.000 trabalhadores e estudantes compareceram à Praça Vermelha.	4.0
+11893	O jogo voltou equilibrado na segunda etapa e o Manchester United conseguiu o gol da virada logo no começo.	Com menos de dez minutos do segundo tempo o Manchester United virou o jogo com um gol de Smalling.	3.75
+11894	O time colorado também espera para conhecer seu adversário nas oitavas de final da Libertadores.	O adversário do colorado será definido no final da noite desta quarta-feira.	3.75
+11895	A Daimler argumenta que a decisão é baseada em um contexto difícil para o mercado automotivo no país.	A Daimler explica sua decisão em função do setor automotivo brasileiro estar difícil.	4.75
+11896	Em um campeonato como este não podemos nos dar ao luxo de jogar desta maneira.	Fizemos um de nossos piores jogos no Campeonato Brasileiro.	2.25
+11897	O brasileiro Arthur Zanetti garantiu o ouro na prova de argolas na Copa do Mundo de ginástica.	Dobradinha do Brasil na disputa de argolas da Copa do Mundo de ginástica.	3.5
+11898	Os estudantes devem fazer a inscrição no site do Fies.	O governo definiu novas regras para os estudantes terem acesso ao Fies.	3.75
+11899	Logo cedo, às 16h30, o Palco Sunset vai reunir Baby do Brasil e Pepeu Gomes.	O reencontro de Baby do Brasil e Pepeu Gomes depois de 27 anos é outra atração deste palco.	3.25
+11900	Também será divulgado se os acionistas deverão receber dividendos.	A Petrobras não vai pagar dividendos aos acionistas este ano.	3.0
+11901	Na última semana do prazo, pelo menos 208 mil pernambucanos entregaram o imposto de renda.	A Receita Federal recebeu 27.895.994 de declarações do Imposto de Renda.	3.0
+11902	Os professores reivindicam aumento de 13,01% para toda a categoria.	Em São Paulo, a categoria quer 75% de aumento.	2.0
+11903	A comissão apura denúncias de abuso e exploração sexual em meninas da comunidade quilombola.	O grupo apura denúncias de abusos e exploração sexual de crianças da Comunidade Quilombola.	4.5
+11904	Felipe Massa teve o pneu dianteiro furado durante a largada ao se chocar com a Red Bull do australiano Daniel Ricciardo.	Felipe Massa, após sofrer um toque na largada, chegou em 17º.	2.5
+11905	Duas pessoas morreram e 75 ficaram feridas, entre elas três crianças em estado grave.	Entre os 120 feridos, há pelo menos três crianças em estado grave.	3.25
+11906	O tricolor, no mesmo dia e horário, recebe o Flamengo, no Morumbi.	O São Paulo, ainda no Morumbi, recebe o Flamengo no sábado.	4.25
+11907	Zelada sucedeu Nestor Cerveró na área Internacional da Petrobras em 2008.	Zelada substituiu Nestor Cerveró na Diretoria Internacional da Petrobrás em 2008.	4.75
+11908	É hoje o grande o dia para santistas e palmeirenses.	Neste domingo, santistas e palmeirenses saberão se ele tinha ou não razão.	3.5
+11909	Os seguidores do Instagram da apresentadora concordaram com ela e não pouparam elogios para Sasha.	A apresentadora postou uma foto de Sasha no Instagram e se derreteu.	3.25
+11910	A CUT combate o projeto que regulamenta a terceirização.	A CUT teve um papel diferenciado na discussão da terceirização.	3.5
+11911	O Barcelona que errava muitos passes e chegava pouco só foi melhorar no final da etapa.	O Leverkusen surpreendeu e foi melhor na primeira etapa no Camp Nou.	1.75
+11912	Mesmo assim, as duas melhores chances do Barcelona surgiram dos pés de Neymar.	A vez de Neymar virar protagonista no Barcelona chegou.	2.75
+11913	Com um orçamento amarrado, o governo teve que sacrificar áreas consideradas prioritárias.	Ficarão R$ 40,5 bilhões para as áreas consideradas prioritárias.	3.0
+11914	José Mourinho levou, novamente, o Chelsea ao título de campeão inglês de futebol.	Ao apito final, festa: Chelsea mais uma vez campeão inglês.	3.5
+11915	Em entrevista à DW, o pesquisador Ralf Jaumann analisa a descoberta.	A descoberta veio após pesquisas sobre linhas escuras em Marte.	2.25
+11916	O piloto da STR derrapou na pista e foi parar, em alta velocidade, na barreira de proteção.	O piloto da STR, bateu violentamente em uma barreira de proteção da pista.	4.0
+11917	A televisão por assinatura é outro exemplo de serviços que já são prestados por instituições religiosas.	Não é novidade instituições religiosas terem produtos comerciais com suas marcas.	2.25
+11918	Com isso, a mineradora sofreu uma perda de US$ 3,019 bilhões no primeiro trimestre.	Há pouco, no entanto, a Vale apresentou perdas de US$ 3,118 bilhões.	3.5
+11919	A descoberta aconteceu após anos de pesquisas sobre as inclinações lineares recorrentes.	A água que nós estamos vendo dentro das inclinações lineares recorrentes é salgada.	3.0
+11920	Os professores estão em greve no estado há seis dias.	Os professores da rede pública estão em greve em cinco estados.	3.25
+11921	Antes do intervalo, aos 47 min, Douglas cobrou falta, Rhodolfo cabeceou para grande defesa de Alisson.	Douglas cobrou falta na área, Rhodolfo cabeceou e viu Alisson salvar.	4.25
+11922	Um município pode ter mais de um Conselho Tutelar, de acordo com a sua população.	Em 2016, o número de conselhos tutelares chegará a 8.	2.0
+11923	Segundo o ministro, as negociações estão avançadas com o Supremo Tribunal Federal (STF).	O Supremo Tribunal Federal diz que o impacto seria de R$ 10,5 bilhões.	1.5
+11924	Após o Chelsea vencer o jogo por 2 a 0 e chegar a sete pontos, José Mourinho voltou a provocar o Arsenal.	Bastou o Chelsea vencer por 2 a 0 para Mourinho voltar provocar o Arsenal.	4.0
+11925	A polêmica envolvendo Gabriel Paulista e Diego Costa parece não ter fim.	Diego Costa e Gabriel Paulista se desentenderam e o árbitro deu amarelo para ambos.	3.25
+11926	A pesquisa aponta que 31,2 milhões de domicílios contavam com acesso à internet em 2013.	A pesquisa aponta que metade dos brasileiros estão conectados a internet.	3.5
+11927	Os quenianos Eliud Kipchoge, pelo lado masculino, e Gladys Cherono, pelo feminino, foram os vencedores da corrida.	No feminino, a vitória ficou com a queniana Gladys Cherono.	3.5
+11928	Já em março de 2014, houve superávit de R$ 3,580 bilhões.	No mês passado, houve superávit de R$ 1,463 bilhão.	3.0
+11929	Este é o balanço na Operação Aparecida, divulgados na manhã desta terça-feira pela Polícia Rodoviária Federal (PRF).	O balanço foi divulgado nesta terça (13), pela Polícia Rodoviária Federal.	4.0
+11930	Perdi alguns jogos, mas por pancada, coisa pequena.	Perdi jogos por pancada, mas a última lesão foi em 2013.	3.75
+11931	Além dos jogadores, a FA decidiu denunciar Arsenal e Chelsea por não conseguirem controlar seus atletas.	Tanto o Chelsea quanto o Arsenal também foram acusados pela FA de não conseguirem controlar seus jogadores.	4.25
+11932	O Ibovespa, principal indicador da Bolsa de São Paulo, caiu 3,03%, a 44.336 pontos.	Na última sexta-feira, o Ibovespa recuou 1,99%, a 45.719 pontos.	3.25
+11933	Em fevereiro, as contas públicas registraram déficit primário de R$ 2,300 bilhões, o pior resultado desde 2013.	Já as empresas estatais registraram déficit primário de R$ 97 milhões.	3.0
+11934	Nas medidas do ministro Joaquim Levy não tem nenhuma que penaliza os bancos.	Talvez o ministro Levy não esteja informado.	1.75
+11935	Em maio, essas entradas somaram US$ 1,069 bilhão.	Até o dia 18 deste mês, ficaram em US$ 1,027 bilhão.	2.5
+11936	No total, são 2.555 moradias, com investimento de R$ 211 milhões.	No total, foram investidos R$ 211 milhões para a construção das casas.	4.0
+11937	Hoje compartilhamos o luto com o povo armênio.	Sargsyan também agradeceu aos convidados pela solidariedade internacional com o povo armênio.	3.25
+11938	Andrés Sanchez conversou com a ESPN e disse que a contratação não será feita.	Não há condição financeira para fazer isso.	1.0
+11939	Antes disso, ele também foi campeão estadual como técnico em 1991.	No Flamengo, foi duas vezes campeão carioca: 1963 e 1965.	2.25
+11940	Recebeu quatro partidas de gancho, portanto está fora da Copa América mesmo que o Brasil alcance a final.	O gancho é válido apenas para jogos da Copa América.	2.5
+11941	O jogo de volta acontecerá na Arena Condá, em Chapecó, uma semana depois.	O apoio que recebemos na Arena Conda foi demais.	2.0
+11942	As ações preferenciais avançaram 0,69% e as ordinárias, 1,28%, segundo dados preliminares.	No mesmo horário, as ações ordinárias caíam 0,67%, para R$ 13,15.	2.25
+11943	A Jaguar Land Rover é a primeira companhia britânica de automóveis a investir numa planta de manufatura no Brasil.	Essa será a primeira fábrica da Jaguar Land Rover no Brasil.	3.0
+11944	Não teve retranca ou campo reduzido que segurasse Cristiano Ronaldo.	Esse foi o 500º gol da carreira de Cristiano Ronaldo.	1.5
+11945	Para o próximo ano, a previsão ficou em déficit de US$ 76,00 bilhões.	E a expectativa para 2016 ficou em US$ 65 bilhões.	2.75
+11946	Entre elas está uma parceria inédita com o Acnur, o braço da ONU para refugiados.	Aqui no Brasil, a parceria com o Acnur já está em vigor.	2.75
+11947	O gol marcado aos 4 minutos do primeiro tempo foi anulado.	O gol animou os cariocas, que quase ampliaram no minuto seguinte.	2.25
+11948	No total, foram cerca de 450 mortes em um ano, uma taxa de 53,06 a cada 100 mil habitantes.	A cidade tem um índice de 5,3 mortes a cada 100 mil habitantes.	2.75
+11949	Para este ano, a mediana das estimativas de 8,90% foi substituída pela de 8,83%.	Para 2016, a mediana das previsões passou de 0,90% para 0,70%.	2.25
+11950	Segundo o treinador da seleção brasileira, Guilherme Pussieldi, a atleta precisa ser submetida a uma cirurgia.	Segundo o treinador da seleção brasileira, a atleta deve passar por uma cirurgia.	4.25
+11951	Na quarta-feira o governador também foi ao Congresso, onde viu de perto a resistência à aprovação da CPMF.	A proposta de volta da CPMF esbarrou em forte resistência no Congresso.	3.75
+11952	Mais tarde, aos 19, o gremista sacou o meia Douglas para a entrada do atacante Yuri Mamute.	O Grêmio substituiu Douglas por Yuri Mamute.	4.0
+11953	Suspenso, o zagueiro Felipe será substituído por Edu Dracena.	O zagueiro Felipe está suspenso e terá de ser substituído.	4.0
+11954	Já o litro do diesel atualmente é vendido por em torno de R$ 3,48 e deve chegar a R$ 3,63.	Já o preço do diesel pode saltar de R$ 2,89 para R$ 3,04.	2.25
+11955	Com essa formação, Daniel Alves passou da lateral direita para o meio e Marquinhos fez a lateral.	Depois, ele tirou Robinho e colocou Marquinhos na lateral direita.	2.5
+11956	Houve uma tempestade bastante severa com condições para tornado naquela região.	As condições atmosféricas na região possibilitavam a formação do tornado.	3.5
+11957	O alemão Markus Kattner, um dos diretores da instituição, assumirá a vaga deixada por Valcke.	Quem assume em seu lugar é Markus Kattner, um dos diretores da entidade.	3.25
+11958	Após ter protagonizado algumas polêmicas, a cantora norte-americana Miley Cyrus está preparada para mais uma.	A cantora Miley Cyrus parece não se cansar de polêmica.	3.5
+11959	O casal confirmou o casamento no civil à revista Marie Claire.	Recentemente, Marie Claire contou que eles vão se casar no civil.	2.5
+11960	Segundo a pesquisa, 82% desaprovam e 14% aprovam a maneira de a presidenta governar.	A desaprovação, por outro lado, caiu de 75% para 70%.	2.5
+11961	O Bragantino, que sonhava em colar na zona de classificação, fica em nono lugar, com 42 pontos.	O Bragantino, por outro lado, surge em nono lugar, com 42.	4.0
+11962	O Desafio Internacional chegou a estar ameaçado, mas começou nesta tarde, de forma parcial.	Nesta sexta-feira, alguns deles cogitaram não disputar o Desafio Internacional, que aconteceria entre sábado e domingo.	2.5
+11963	A classificação só foi garantida porque Israel perdeu para o Chipre por 2 a 1, em casa.	Israel vem logo atrás com 13 e Chipre tem 12.	2.25
+11964	A acareação começou pela manhã e durou cerca de oito horas.	A acareação na Polícia Federal em Curitiba durou mais de oito horas.	3.75
+11965	Se o balanço não vier com dados transparentes, pode prejudicar a credibilidade da empresa.	Os problemas da empresa não se resolvem com a publicação do balanço.	3.0
+11966	A Euro 2016 teve mais dois participantes confirmados na tarde deste sábado.	Mais dois participantes foram classificados diretamente para a Euro 2016 na tarde deste sábado.	4.75
+11967	A LG lançou oficialmente o V10 , seu primeiro smartphone com duas telas.	A LG anunciou, nesta quinta-feira, 1, o V10.	3.75
+11968	Pato fez um gol legítimo, anulado pelo bandeirinha alegando impedimento.	Alexandre Pato recebeu em posição legal, fez o gol, mas o impedimento foi marcado.	4.25
+11969	A definição da chave ocorre na próxima terça-feira, às 15h45 (de Brasília).	A definição da chave acontecerá na próxima terça-feira.	4.0
+11970	A reação de Blatter ocorre pouco depois de a Fifa confirmar sua suspensão por 90 dias.	Blatter é presidente da Fifa desde 1998 e trabalha para a entidade há 40 anos.	2.5
+11971	Na minha visão foi um jogo bastante equilibrado, com chances dos dois lados.	O jogo começou bastante equilibrado e sem grandes chances para as equipes.	3.5
+11972	A decisão foi publicada na edição de terça-feira (9) do Diário Oficial da União.	A medida foi publicada no Diário Oficial da União nesta terça-feira (9).	5.0
+11973	Até o momento, a LG não comentou nada sobre o preço do V10 e nem sua data de lançamento.	A LG ainda não anunciou o preço do aparelho.	3.75
+11974	"A Turquia está em alerta desde o início de sua ""guerra sincronizada contra o terror"", em julho."	A chefe da diplomacia da União Europeia pediu uma só Turquia contra o terror.	2.25
+11975	Quem for considerada a melhor pelos jurados será eleita a rainha da Virada Cultural.	São 16 drags que disputam o posto de rainha da Virada Cultural.	2.75
+11976	O levantamento ouviu 2.840 pessoas em 184 municípios na última quarta-feira (17) e quinta-feira (18).	Instituto ouviu 2.840 pessoas em 174 municípios nos dias 17 e 18 de junho.	4.25
+11977	A avaliação menos baixa está no Nordeste, onde 14% dos entrevistados consideraram o governo bom ou ótimo.	Apenas 10% dos entrevistados consideram o governo Dilma bom ou ótimo.	3.0
+11978	Caio chegou a passar por cirurgia mas infelizmente faleceu no Hospital Estadual Getúlio Vargas.	Caio ainda foi levado para o hospital Getúlio Vargas, mas não resistiu.	4.0
+11979	O Estado fechou o mês de maio com um saldo de 21.255 admissões contra 20.721 demissões.	O número total de demissões chegou a 28.080 e de admissões a 26.881.	3.25
+11980	Os brasileiros Felipe Nasr e Felipe Massa ficaram, respectivamente, com a 12ª e a 15ª colocação.	Dentre eles, Felipe Massa liderou o treino livre.	2.0
+11981	Na semana passada, a investigação criminal sobre corrupção passiva e lavagem de dinheiro foi transferida para o Brasil.	O presidente da Câmara foi denunciado, em agosto, por corrupção passiva e lavagem de dinheiro.	2.5
+11982	Maldonado disse ainda que cerca de 125 casas foram afetadas pelo deslizamento.	Segundo Maldonado, mais de 100 casas podem ter sido atingidas.	4.0
+11983	Após a cirurgia, a atriz precisou colocar silicone para recompor a área retirada.	Quando retirou os seios, a atriz colocou silicone, mas não gostou muito do resultado.	3.5
+11984	O primeiro foi São Paulo, com 23 mil postos fechados.	No mês passado, foram fechados 115.599 postos de trabalho.	2.5
+11985	A Divisão de Homicídios está interrogando dois funcionários que trabalhavam na casa dele.	O caso foi encaminhado à Divisão de Homicídios da capital.	2.75
+11986	Os alimentos adicionaram 0,30 ponto porcentual à alta de 0,99% registrada pelo IPCA-15 no mês de junho.	Em junho de 2014, o IPCA-15 havia sido 0,47%.	2.5
+11987	O menor índice foi registrado no Amazonas e Ceará, com menos de 0,5 kg/ha cada.	Em 2012, foram 6,9 kg/ha: um aumento de 155%.	2.25
+11988	Se o cão ou gato estiver doente, não vacinar e agendar outra data para efetuar imunização.	Estamos vacinando cães e gatos no momento e está sendo realizada uma campanha rural.	2.25
+11989	O Refis se refere à lei 12.996 de 2014, que prevê o refinanciamento de débitos de empresas.	No mesmo mês de 2014, houve arrecadação extraordinária por causa do Refis.	3.0
+11990	Até abril, 183 casos — ou 83% deles — continuavam em aberto junto à Polícia Civil.	Até abril deste ano, 183 investigações continuavam em aberto.	3.5
+11991	Dilma Rousseff sempre considerou a hipótese de usar o poder de veto contra essa decisão.	Dilma pode usar a decisão dos ministros para vetar o projeto aprovado pela Câmara, sustentado que é inconsticional.	3.0
+11992	Os dados foram divulgados pela Polícia Rodoviária Federal (PRF), ao encerrar a Operação Aparecida 2015.	A Polícia Rodoviária Federal (PRF) encerrou a Operação Aparecida 2015.	3.5
+11993	As multas previstas nos contratos podem atingir, juntas, 23 milhões de reais.	Somadas, as multas previstas nos contratos podem chegar a R$ 23 milhões.	5.0
+11994	O 1.6 ganhou um sistema de partida a frio sem tanquinho.	Chegou ao fim ainda o famigerado tanquinho de partida a frio.	2.75
+11995	Logo após veio o empate, com Andreas Pereira.	Pouco tempo depois, os brasileiros buscaram o empate com Andreas Pereira.	4.25
+11996	A Pepsi acaba de confirmar a produção de seu primeiro smartphone.	Teremos um smartphone criado pela grande empresa de refrigerante Pepsi.	4.25
+11997	Neymar foi para cobrança e marcou, mesmo com Sergio Rico acertando o lado.	No entanto, os grandes nomes da partida foram Neymar e Sergio Rico.	2.0
+11998	O sistema operacional usado no aparelho deverá ser o Android 5.1 Lollipop.	Provavelmente o sistema operacional do aparelho ficara por conta do Android 5.1 Lollipop.	4.75
+11999	Mesmo dominada no jogo, a Sérvia abriu o placar aos 25, graças ao talento de Zivkovic.	Aos 24 minutos do segundo tempo, Mandic abriu o placar para a Sérvia.	3.5
+12000	O sorteio será realizado nesta quarta-feira (26), às 20h25, em Osasco (SP).	O sorteio será realizado a partir das 20 horas, em São Paulo.	2.75
