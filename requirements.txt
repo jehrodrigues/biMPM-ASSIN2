@@ -1,4 +1,4 @@
-ignite==1.1.0
+pytorch-ignite==0.1.0
 numpy==1.14.2
 scikit-learn==0.19.1
 scipy==1.0.1
