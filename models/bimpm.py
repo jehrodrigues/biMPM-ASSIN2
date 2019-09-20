@@ -1,7 +1,3 @@
-"""
-This implementation is partially inspired by https://github.com/galsang/BIMPM-pytorch/blob/master/model/BIMPM.py
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
