@@ -1,8 +1,3 @@
-"""
-Data comes from SemEval-2014 Task 1: Evaluation of Compositional Distributional Semantic Models
-on Full Sentences through Semantic Relatedness and Entailment
-http://alt.qcri.org/semeval2014/task1/index.php?id=data-and-tools
-"""
 import math
 
 import numpy as np
