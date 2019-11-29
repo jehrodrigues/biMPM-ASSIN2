@@ -50,7 +50,8 @@ class BiMPM(nn.Module):
 
         self.prediction_layer = nn.Sequential(
             nn.Linear(4*self.n_hidden_units, 2*self.n_hidden_units),
-            nn.Tanh(),
+            #nn.Tanh(),
+            nn.ReLU(),
             nn.Dropout(dropout),
             nn.Linear(2*self.n_hidden_units, self.n_classes),
             nn.LogSoftmax(1)
@@ -192,16 +193,13 @@ class BiMPM(nn.Module):
         s2_combined_match_vec = torch.cat([m_full_s2_f, m_maxpool_s2_f, m_attn_s2_f, m_maxattn_s2_f,
                                            m_full_s2_b, m_maxpool_s2_b, m_attn_s2_b, m_maxattn_s2_b], dim=2)
 
-        #print('Aggregation Layer')
         # Aggregation Layer
         s1_agg_out, (s1_agg_h, s1_agg_c) = self.aggregation_lstm(s1_combined_match_vec)
         s2_agg_out, (s2_agg_h, s2_agg_c) = self.aggregation_lstm(s2_combined_match_vec)
 
-        #print('matching_vector')
         # s1_agg_h and s2_agg_h are 2 x batch x n_hidden
         matching_vector = torch.cat([s1_agg_h.transpose(1, 0), s2_agg_h.transpose(1, 0)], dim=1).view(-1, 4 * self.n_hidden_units)
 
-        #print('Prediction Layer')
         # Prediction Layer
         final_pred = self.prediction_layer(matching_vector)
 

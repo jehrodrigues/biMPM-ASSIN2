@@ -1,0 +1,254 @@
+<?xml version="1.0" ?><entailment-corpus>
+    <pair entailment="None" id="1" similarity="3.3147676">
+        <t>No Brasil, 809 instituições participarão da Primavera dos Museus neste ano.</t>
+        <h>Começa nesta segunda-feira, em todo o Brasil, a Primavera dos Museus.</h>
+    </pair>
+    <pair entailment="Entailment" id="2" similarity="3.8353937">
+        <t>Alguns dos novos participantes serão revelados no programa Xuxa Meneghel, que vai ao ar na segunda-feira.</t>
+        <h>Parte dos participantes será anunciada no Programa Xuxa Meneghel.</h>
+    </pair>
+    <pair entailment="None" id="3" similarity="3.7946322">
+        <t>Nesta terça, o Inter revelou que o gringo sofre com uma hérnia de disco.</t>
+        <h>Nesta terça-feira, o departamento médico do clube gaúcho informou que o argentino está com hérnia de disco.</h>
+    </pair>
+    <pair entailment="None" id="4" similarity="3.3559353">
+        <t>O texto da reforma política será agora encaminhado à apreciação do Senado Federal.</t>
+        <h>Após passar pela Câmara, o texto tem que ir ainda para o Senado.</h>
+    </pair>
+    <pair entailment="Entailment" id="5" similarity="3.7784178">
+        <t>O Fluminense vive crise em campo e não vence há seis rodadas, são cinco derrotas e um empate.</t>
+        <h>Nos últimos seis jogos, o Fluminense foi derrotado em cinco ocasiões e empatou em uma.</h>
+    </pair>
+    <pair entailment="None" id="6" similarity="3.255524">
+        <t>John Lennon nasceu em 9 de outubro de 1940 em Liverpool (Reino Unido).</t>
+        <h>Hoje, dia 9 de outubro, John Lennon estaria completando 75 anos.</h>
+    </pair>
+    <pair entailment="Entailment" id="7" similarity="4.2491484">
+        <t>Segundo Lagarde, esse fenômeno deverá levar o FMI a revisar para baixo a previsão de crescimento.</t>
+        <h>Esse fenômeno deve levar o FMI a revisar para baixo as projeções de crescimento.</h>
+    </pair>
+    <pair entailment="None" id="8" similarity="3.1473293">
+        <t>De acordo com o Corpo de Bombeiros, o acidente aconteceu por volta das 6h30.</t>
+        <h>Segundo os bombeiros, o chamado foi feito às 6h32.</h>
+    </pair>
+    <pair entailment="None" id="9" similarity="3.2558243">
+        <t>O botão de um dedão apontado para cima é um dos recursos mais populares na rede social.</t>
+        <h>Atendendo ao pedido de muitos usuários da rede social, Mark vai incluir o botão &quot;não curti&quot;.</h>
+    </pair>
+    <pair entailment="None" id="10" similarity="2.8075254">
+        <t>Margarida Maria afirmava que “é melhor morrer na luta do que morrer de fome”.</t>
+        <h>Margarida Maria Alves sabia dos riscos de sua missão.</h>
+    </pair>
+    <pair entailment="None" id="11" similarity="3.643172">
+        <t>Melhores ataques, Corinthians e a Atlético Mineiro com 48 gols cada um.</t>
+        <h>Pior ataque é o do Vasco com 18 gols marcados.</h>
+    </pair>
+    <pair entailment="Entailment" id="12" similarity="3.9413712">
+        <t>Já “House of Cards” precisou de três capítulos para convencer os brasileiros de acompanharem a série até o fim.</t>
+        <h>Já &quot;House of Cards&quot; levou três episódios para conquistar o público brasileiro.</h>
+    </pair>
+    <pair entailment="Entailment" id="13" similarity="4.4728537">
+        <t>Por enquanto, vídeos em 360 graus só funcionam na versão web do Facebook e no aplicativo para Android.</t>
+        <h>Os vídeos em 360 graus já estão disponíveis na versão web do Facebook e também no aplicativo para Android.</h>
+    </pair>
+    <pair entailment="None" id="14" similarity="0.93970466">
+        <t>A decisão representa uma derrota para o presidente da Câmara, Eduardo Cunha (PMDB-RJ).</t>
+        <h>Vou entregar as informações.</h>
+    </pair>
+    <pair entailment="None" id="15" similarity="3.062923">
+        <t>Os recursos são transferidos para o HU pelo próprio Ministério da Saúde.</t>
+        <h>A partir de agora o município não tem mais recurso para repassar ao HU.</h>
+    </pair>
+    <pair entailment="None" id="16" similarity="3.6915395">
+        <t>A ex-BBB foi clicada tomando sol na areia e se refrescou com mergulhos no mar.</t>
+        <h>A ex-BBB mostrou o corpo saradíssimo ao tomar banho de mar.</h>
+    </pair>
+    <pair entailment="None" id="17" similarity="3.9342663">
+        <t>Acredita-se que o treinador colombiano fará um rodízio entre ele e Renan Ribeiro na suplência do ídolo Rogério Ceni.</t>
+        <h>O goleiro e capitão Rogério Ceni acredita que o colombiano continuará.</h>
+    </pair>
+    <pair entailment="None" id="18" similarity="3.6406605">
+        <t>Outro gadget que terá a função disponível será o iPad Pro, assim que for lançado pela Apple.</t>
+        <h>O iPad Pro, anunciado no começo de mês, já virá com essa função.</h>
+    </pair>
+    <pair entailment="None" id="19" similarity="3.1384168">
+        <t>E Snowden mostrou bom humor em sua estreia no Twitter.</t>
+        <h>Em sua descrição no Twitter, Snowden diz: &quot;Eu trabalhava para o governo.&quot;</h>
+    </pair>
+    <pair entailment="Entailment" id="20" similarity="3.718139">
+        <t>Eu tive que desistir de muitos papéis bons porque estava ligado a Game of Thrones.</t>
+        <h>Perdi muita coisa porque estava preso a Game of Thrones.</h>
+    </pair>
+    <pair entailment="None" id="21" similarity="4.219324">
+        <t>O índice seletivo DAX-30 da Bolsa de Valores de Frankfurt tem alta de 1,87%, aos 9.828,45 pontos.</t>
+        <h>O índice de referência DAX teve baixa de 4,70%, para 9.648,43 pontos.</h>
+    </pair>
+    <pair entailment="None" id="22" similarity="3.6905968">
+        <t>Segundo o ministro, a manutenção dos 26 vetos analisados pelo Congresso na semana passada representa um “sinal importante”.</t>
+        <h>Barbosa reafirmou que a manutenção de parte dos vetos foi um sinal importante.</h>
+    </pair>
+    <pair entailment="None" id="23" similarity="3.8180668">
+        <t>Estamos enfrentando a questão fiscal do curto prazo com enorme esforço do governo para garantir os vetos.</t>
+        <h>Levy ressaltou que o Brasil vem fazendo um esforço fiscal enorme no curto prazo.</h>
+    </pair>
+    <pair entailment="None" id="24" similarity="3.0764978">
+        <t>Até então, as mensagens privadas da plataforma só podiam ter até 140 caracteres.</t>
+        <h>Os tuítes públicos serão mantidos em 140 caracteres.</h>
+    </pair>
+    <pair entailment="None" id="25" similarity="3.2048306">
+        <t>O iOS 9 traz muitas mudanças interessantes.</t>
+        <h>São características do iOS 9 que nos deixaram muito animados.</h>
+    </pair>
+    <pair entailment="Entailment" id="26" similarity="4.218211">
+        <t>O festival acontece nos dias 12 e 13 de março, no autódromo de Interlagos, nova casa do Lolla desde 2014.</t>
+        <h>O evento acontece no Autódromo de Interlagos, em São Paulo, nos dias 12 e 13 de março.</h>
+    </pair>
+    <pair entailment="None" id="27" similarity="3.59668">
+        <t>Embora o microblog diga que não há limite de texto, ele existe e é de 10 mil caracteres.</t>
+        <h>O limite de 140 caracteres, no entanto, permanece para os tuítes públicos.</h>
+    </pair>
+    <pair entailment="Entailment" id="28" similarity="3.705479">
+        <t>Com a narração de Scarlett Johansson como a cobra píton Kaa, o vídeo conta com legendas em português.</t>
+        <h>A cobra Kaa, por exemplo, ganha a voz de Scarlett Johansson.</h>
+    </pair>
+    <pair entailment="None" id="29" similarity="3.5892704">
+        <t>Todo mundo quer ver a taxa de juros cair.</t>
+        <h>Não há dúvida nenhuma: enquanto não acertar o fiscal, é muito difícil a taxa de juros cair.</h>
+    </pair>
+    <pair entailment="None" id="30" similarity="3.3263955">
+        <t>O Partido dos Trabalhadores considera um equívoco a condenação, sem provas, do companheiro João Vaccari Neto.</t>
+        <h>João Vaccari Neto foi condenado pelos crimes de corrupção e lavagem de dinheiro.</h>
+    </pair>
+    <pair entailment="None" id="31" similarity="4.222081">
+        <t>Neste ano, Ricci apitou duas partidas do Grêmio, em ambas o Tricolor saiu vencedor.</t>
+        <h>Curiosamente, apesar do temor de Bolzan, Ricci apitou duas partidas em que o Grêmio saiu vencedor.</h>
+    </pair>
+    <pair entailment="Paraphrase" id="32" similarity="4.275875">
+        <t>Esta proposta aborda o aumento persistente dos gastos ao longo dos anos.</t>
+        <h>Essa proposta trata do aumento persistente em despesas ao longo dos anos.</h>
+    </pair>
+    <pair entailment="Paraphrase" id="33" similarity="3.915167">
+        <t>Enquanto isto, não deixar que cães e gatos se aproximem do mamífero.</t>
+        <h>Cães e gatos devem ficar afastados do mamífero.</h>
+    </pair>
+    <pair entailment="Paraphrase" id="34" similarity="4.032877">
+        <t>A Microsoft deve apresentar uma nova geração de aparelhos com Windows 10.</t>
+        <h>A Microsoft vai revelar novos dispostivos com Windows 10.</h>
+    </pair>
+    <pair entailment="None" id="35" similarity="3.9311912">
+        <t>Ao todo, 22 atletas foram chamados para disputar os amistosos em outubro contra República Dominicana e Haiti.</t>
+        <h>As partidas contra República Dominicana e Haiti acontecerão nos dias 9 e 12 de outubro, respectivamente.</h>
+    </pair>
+    <pair entailment="None" id="36" similarity="3.4679148">
+        <t>Além de Nalbert, outros três nomes foram confirmados para participar do revezamento da tocha da Rio-2016.</t>
+        <h>Em 2007, ele participou do revezamento da tocha do Pan do Rio.</h>
+    </pair>
+    <pair entailment="None" id="37" similarity="3.648204">
+        <t>Abra a Mac App Store ou a Google Play Store e verifique se o Snapchat está atualizado.</t>
+        <h>A atualização pesa 62.9 MB na App Store e 29,07 MB na Play Store.</h>
+    </pair>
+    <pair entailment="None" id="38" similarity="2.7543693">
+        <t>Além da atividade internacional, Carter também continua muito envolvido na vida de sua comunidade, na Geórgia.</t>
+        <h>Jimmy Carter nasceu a 1 de outubro de 1924 no Estado da Geórgia.</h>
+    </pair>
+    <pair entailment="None" id="39" similarity="3.494517">
+        <t>Kim Kardashian fez um desabafo na web.</t>
+        <h>Ele aproveitou para elogiar a família de Kim Kardashian.</h>
+    </pair>
+    <pair entailment="None" id="40" similarity="3.556946">
+        <t>Pepeu participou de todas as edições do Rock in Rio.</t>
+        <h>Eles marcaram história há 30 anos quando se apresentaram na primeira edição para o Rock in Rio.</h>
+    </pair>
+    <pair entailment="None" id="41" similarity="3.6964562">
+        <t>O problema afeta tanto usuários da web, quanto quem tenta acessar o Facebook pelo celular.</t>
+        <h>Facebook sai do ar e usuários não conseguem acessar a rede social.</h>
+    </pair>
+    <pair entailment="Paraphrase" id="42" similarity="3.9624045">
+        <t>Angela Merkel foi a pessoa que tomou a liderança sobre o tema na Europa.</t>
+        <h>Merkel foi a pessoa que assumiu a liderança desta questão na Europa.</h>
+    </pair>
+    <pair entailment="Entailment" id="43" similarity="4.3540993">
+        <t>O pedido inclui os afastamento dos 17 vereadores que votaram pela cassação de Bernal e continuam na Câmara.</t>
+        <h>Também consta no pedido o afastamento dos 17 vereadores que votaram, na época, pela cassação de Bernal.</h>
+    </pair>
+    <pair entailment="None" id="44" similarity="2.900149">
+        <t>Em 2013, 53 rins e 238 córneas foram transplantados.</t>
+        <h>No ano passado, foram feitos 516 transplantes no total, sendo 332 de córnea.</h>
+    </pair>
+    <pair entailment="None" id="45" similarity="3.6603715">
+        <t>&quot;A Fazenda 8&quot; estreia nesta quarta, 23, e será apresentado por Roberto Justus.</t>
+        <h>A Fazenda 8 estreia nesta quarta-feira (23) e já tem três nomes confirmados.</h>
+    </pair>
+    <pair entailment="None" id="46" similarity="3.5322726">
+        <t>Parlamentares da base governista defendem a isenção do tributo para a população que não paga Imposto de Renda.</t>
+        <h>Para diminuir a resistência, os governistas passaram a defender a criação da faixa de isenção para o tributo.</h>
+    </pair>
+    <pair entailment="Entailment" id="47" similarity="3.619136">
+        <t>O Kremlin tem sido um aliado constante do regime sírio, mesmo antes do início do conflito.</t>
+        <h>A Rússia é uma aliada do regime do presidente sírio.</h>
+    </pair>
+    <pair entailment="None" id="48" similarity="3.0806346">
+        <t>Jobs diz que tudo o que fazemos na vida deve ser significativo.</t>
+        <h>Para Jobs, quanto mais 'nãos' alguém dizia, melhor.</h>
+    </pair>
+    <pair entailment="None" id="49" similarity="3.5309203">
+        <t>Na 17.ª volta, Rossi passou Lorenzo e assumiu a liderança da prova.</t>
+        <h>Lorenzo manteve a liderança na largada, seguido por Márquez e Rossi.</h>
+    </pair>
+    <pair entailment="None" id="50" similarity="2.5255923">
+        <t>Os Jogos voltam em 2019, na cidade de Wuhan, na China.</t>
+        <h>Esses Jogos Mundiais são preparatórios para os Jogos Olímpicos de 2016.</h>
+    </pair>
+    <pair entailment="None" id="51" similarity="3.2754867">
+        <t>Magda considerou positiva também a participação de pequenas e médias empresas.</t>
+        <h>Outro ponto positivo, segundo Magda, foi o número de empresas vencedoras brasileiras.</h>
+    </pair>
+    <pair entailment="None" id="52" similarity="3.8260272">
+        <t>O folhetim bíblico marcou 20,1 pontos de média com picos de 22.</t>
+        <h>O folhetim bíblico fez 20,9 pontos de média contra 19,7 da atração escrita por João Emanuel Carneiro.</h>
+    </pair>
+    <pair entailment="None" id="53" similarity="3.4369948">
+        <t>Durante toda a exibição do programa, o 'The Voice Brasil' ficou sendo o assunto mais comentado do Twitter.</t>
+        <h>O &quot;The Voice Brasil&quot;, da Globo, está quase estreando.</h>
+    </pair>
+    <pair entailment="None" id="54" similarity="3.1015923">
+        <t>Uma sinalização sobre o futuro de Del Nero será dada esta semana.</t>
+        <h>O país norte-americano, por sinal, investiga Del Nero.</h>
+    </pair>
+    <pair entailment="None" id="55" similarity="3.5624044">
+        <t>A versão hatch é a primeira a ser apresentada, com vendas a partir de 10 de outubro.</t>
+        <h>Mesmo assim, a partir de outubro, chega às lojas a reestilização do hatch da Hyundai.</h>
+    </pair>
+    <pair entailment="None" id="56" similarity="3.7941349">
+        <t>Ainda assim, Modesto Roma prefere o histórico da equipe na Vila Belmiro.</t>
+        <h>O presidente Modesto Roma já assumiu internamente o compromisso de manter o jogo na Vila Belmiro.</h>
+    </pair>
+    <pair entailment="None" id="57" similarity="2.5737789">
+        <t>No interior, o Novo HB20 está mais estiloso e confortável.</t>
+        <h>O novo HB20 2016 ganhou novidades para a sua categoria.</h>
+    </pair>
+    <pair entailment="None" id="58" similarity="3.8186257">
+        <t>O smartphone chega em três opções de cores: branca, preta e ciano.</t>
+        <h>Ambos também terão quatro opções de cores – branca, preta, prata e dourada.</h>
+    </pair>
+    <pair entailment="None" id="59" similarity="3.5283287">
+        <t>O Campeonato mostrou para o Grêmio que a cada rodada temos um jogo decisivo.</t>
+        <h>A cada rodada é um jogo decisivo, com o calendário não podemos lamentar ou festejar muito.</h>
+    </pair>
+    <pair entailment="None" id="60" similarity="3.7130258">
+        <t>Desesperado em busca do empate, o Corinthians apostou no goleiro-linha para pressionar os mandantes.</t>
+        <h>Precisando do empate para evitar a prorrogação, o Corinthians partiu para o ataque.</h>
+    </pair>
+    <pair entailment="None" id="61" similarity="3.4509594">
+        <t>A Apple não oferece dinheiro a quem descobre falhas em seus produtos.</t>
+        <h>Não é a Apple que está prometendo o valor para quem descobrir a falha.</h>
+    </pair>
+    <pair entailment="Entailment" id="62" similarity="4.4293222">
+        <t>O bom rendimento ainda levou o ex-atacante a ter passagens por Flamengo, Portuguesa, Grêmio, Figueirense e Atlético-PR.</t>
+        <h>O ex-atacante ainda acumulou passagens por Flamengo, Portuguesa, Grêmio, Atlético-PR e Figueirense.</h>
+    </pair>
+    <pair entailment="Entailment" id="63" similarity="3.9530985">
+        <t>Emerson ganhou pelo alto da defesa visitante e colocou a bola no canto direito de Renan.</t>
+        <h>Emerson subiu alto para colocar a bola de cabeça no canto direito.</h>
+    </pair>
+</entailment-corpus>

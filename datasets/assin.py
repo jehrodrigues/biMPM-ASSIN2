@@ -58,6 +58,14 @@ class ASSIN(TabularDataset):
                                        skip_header=True)
 
     @classmethod
+    def splits_testset(cls, text_field, label_field, id_field, path='data/assin', root='', test='test/ASSIN_test.txt', **kwargs):
+        return super(ASSIN, cls).splits(path, root, None, None, test,
+                                        format='tsv',
+                                        fields=[('id', id_field), ('sentence_a', text_field),
+                                                ('sentence_b', text_field),
+                                                ('relatedness_score', label_field)], skip_header=True)
+
+    @classmethod
     def iters(cls, batch_size=64, device=-1, shuffle=True, vectors='glove.300d'):
         cls.TEXT = myField(sequential=True, tokenize='spacy', lower=True, batch_first=True)
         cls.LABEL = myField(sequential=False, use_vocab=False, batch_first=True, tensor_type=torch.FloatTensor, postprocessing=Pipeline(get_class_probs))
@@ -68,7 +76,27 @@ class ASSIN(TabularDataset):
         #vectors = Vectors(name='wiki.pt.vec', url='https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.pt.vec')
         #vectors = Vectors(name='glove_s50.txt', url='http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s50.zip')
         vectors = Vectors(name='glove_s300.txt', url='http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s300.zip')
-        print('build_vocab')
+        #print('build_vocab')
         cls.TEXT.build_vocab(train, vectors=vectors)
-        print('build_vocab finish')
+        #print('build_vocab finish')
         return BucketIterator.splits((train, val, test), batch_size=batch_size, shuffle=shuffle, repeat=False, device=device)
+
+    @classmethod
+    def iters_testset(cls, batch_size=64, device=-1, shuffle=True):
+        cls.TEXT = myField(sequential=True, tokenize='spacy', lower=True, batch_first=True)
+        cls.LABEL = myField(sequential=False, use_vocab=False, batch_first=True, tensor_type=torch.FloatTensor, postprocessing=Pipeline(get_class_probs))
+        cls.ID = myField(sequential=False, use_vocab=False, batch_first=True, tensor_type=torch.FloatTensor)
+
+        print('cls.TEXT: ', cls.TEXT)
+        print('cls.LABEL: ', cls.LABEL)
+        print('cls.ID: ', cls.ID)
+
+        test = cls.splits_testset(cls.TEXT, cls.LABEL, cls.ID)
+
+        # vectors = Vectors(name='wiki.pt.vec', url='https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.pt.vec')
+        # vectors = Vectors(name='glove_s50.txt', url='http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s50.zip')
+        #vectors = Vectors(name='glove_s300.txt', url='http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s300.zip')
+        # print('build_vocab')
+        #cls.TEXT.build_vocab(train, vectors=vectors)
+        # print('build_vocab finish')
+        return test

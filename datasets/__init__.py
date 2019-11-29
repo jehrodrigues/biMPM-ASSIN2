@@ -20,6 +20,18 @@ def get_dataset(args):
         return ASSIN, train_loader, dev_loader, test_loader, embedding
 
 
+def get_testset(args):
+    if args.dataset == 'assin':
+        test_evaluation = ASSIN.iters_testset(batch_size=1000, device=args.device, shuffle=True)
+
+        #embedding_dim = ASSIN.TEXT.vocab.vectors.size()
+        #embedding = nn.Embedding(embedding_dim[0], embedding_dim[1])
+        #embedding.weight = nn.Parameter(ASSIN.TEXT.vocab.vectors)
+        #embedding.weight.requires_grad = False
+
+        return test_evaluation
+
+
 def get_dataset_configurations(args):
     if args.dataset == 'assin':
         loss_fn = nn.KLDivLoss()

@@ -318,9 +318,10 @@ class myField(Field, RawField):
             arr = arr.cuda(device)
             if self.include_lengths:
                 lengths = lengths.cuda(device)
-        if self.include_lengths:
-            return Variable(arr, volatile=not train), lengths
-        return Variable(arr, volatile=not train)
+        with torch.no_grad():
+            if self.include_lengths:
+                return Variable(arr), lengths #, volatile=True not train
+            return Variable(arr) #, volatile=True not train
 
 
 class ReversibleField(Field):

@@ -3,7 +3,7 @@ from tensorboardX import SummaryWriter
 import torch
 import uuid
 
-from train import create_supervised_evaluator, create_supervised_trainer
+from train import create_supervised_evaluator, create_supervised_evaluator_test, create_supervised_trainer
 
 import utils.utils as utils
 
@@ -26,7 +26,9 @@ class Runner(object):
         cuda = self.device != -1
         with torch.cuda.device(self.device):
             trainer = create_supervised_trainer(self.model, self.optimizer, self.loss_fn, cuda=cuda)
+            print('terminou o treino!')
             evaluator = create_supervised_evaluator(self.model, metrics=self.metrics, y_to_score=self.y_to_score, pred_to_score=self.pred_to_score, cuda=cuda)
+            #evaluator_test = create_supervised_evaluator_test(self.model, metrics=self.metrics, y_to_score=self.y_to_score, pred_to_score=self.pred_to_score, cuda=cuda)
 
         @trainer.on(Events.ITERATION_COMPLETED)
         def log_training_loss(engine):
@@ -73,6 +75,14 @@ class Runner(object):
             for i, k in enumerate(state_metric_keys):
                 self.writer.add_scalar(f'test/{k}', state_metric_vals[i], engine.state.epoch)
 
+        def write_results():
+            evaluator_test = create_supervised_evaluator_test(self.model, metrics=self.metrics, y_to_score=self.y_to_score, pred_to_score=self.pred_to_score, cuda=cuda)
+            checkpoint = torch.load(self.model_id)
+            self.model.load_state_dict(checkpoint['state_dict'])
+
+            evaluator_test.run(test_loader)
+
         trainer.run(train_loader, max_epochs=epochs)
+        write_results()
 
         self.writer.close()

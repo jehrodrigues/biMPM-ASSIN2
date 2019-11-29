@@ -6,9 +6,33 @@ import random
 import torch
 import torch.optim as O
 
-from datasets import get_dataset, get_dataset_configurations
+from datasets import get_dataset, get_testset, get_dataset_configurations
 from models import get_model
 from runners import Runner
+from xml.dom import minidom
+
+
+def _prepare_batch(batch):
+    x, y = batch, batch.relatedness_score
+    return x, y
+
+def _write_xml(filename, pred):
+    """Docstring."""
+    with open(filename, encoding='utf8') as fp:
+        xml = minidom.parse(fp)
+        print('Iniciou XML')
+    pairs = xml.getElementsByTagName('pair')
+    for pair in pairs:
+        # print('pred: ', pred)
+        sim = str(pred[pairs.index(pair)]).split(',')
+        similarity = sim[0].replace('tensor(', '')
+        # print('similarity: ', similarity)
+        # print('pairs.index: ', pairs.index(pair))
+        # print('pair: ', str(pred[pairs.index(pair)]))
+        pair.setAttribute('similarity', similarity)
+    with open(filename, 'w', encoding='utf8') as fp:
+        fp.write(xml.toxml())
+        print('XML escrito')
 
 
 if __name__ == '__main__':
@@ -52,3 +76,18 @@ if __name__ == '__main__':
     optimizer = O.Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=args.lr, weight_decay=args.regularization)
     runner = Runner(model, loss_fn, metrics, optimizer, y_to_score, resolved_pred_to_score, args.device, None)
     runner.run(args.epochs, train_loader, dev_loader, test_loader, args.log_interval)
+    print('terminou tudo')
+    '''
+    dataset_cls, train_loader, dev_loader, test_loader, embedding = get_dataset(args)
+    print(test_loader)
+    checkpoint = torch.load('9dc095f1-8cb9-4041-a661-8188b008df27.model')
+    print('checkpoint')
+    model.load_state_dict(checkpoint['state_dict'])
+    print('load_state_dict')
+    model.eval()
+    print('eval')
+    x = test_loader
+    print('test_loader')
+    y_pred = model(test_loader)
+    _write_xml('/home/jessica/teste-bimpm/data/assin/output.xml', y_pred)
+    '''
